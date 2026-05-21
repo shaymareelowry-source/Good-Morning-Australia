@@ -21,6 +21,7 @@ LON = 144.2794
 VOICE = "en-AU-NatashaNeural"
 
 CURRENT_CONDITION = "sunny"
+CURRENT_IS_FRIDAY = False
 
 PAUSE_SHORT = ". . . . ."
 PAUSE_MEDIUM = ". . . . . . . . ."
@@ -219,7 +220,8 @@ def build_script():
     today = datetime.now(ZoneInfo("Australia/Melbourne"))
 
     is_friday = today.weekday() == 4
-
+    global CURRENT_IS_FRIDAY
+    CURRENT_IS_FRIDAY = is_friday
     day_name = today.strftime("%A")
     date_text = today.strftime("%d %B").lstrip("0")
 
@@ -394,21 +396,26 @@ async def make_audio(text):
 
     intro = AudioSegment.from_mp3("intro.mp3")
 
-    weather_sound_file = get_weather_sound(CURRENT_CONDITION)
-
-    weather_sound = AudioSegment.from_mp3(weather_sound_file) - 18
-
     speech = AudioSegment.from_mp3(speech_file)
 
-    # Lower intro volume slightly
+    # Lower intro volume
     intro = intro - 12
 
-    # First 5 seconds of intro underneath speech
-    intro_with_weather = intro.overlay(weather_sound)
-    
-    overlay = intro_with_weather.overlay(speech)
+    # Add weather ambience
+    weather_sound_file = get_weather_sound(CURRENT_CONDITION)
+    weather_sound = AudioSegment.from_mp3(weather_sound_file) - 18
 
-    # Then continue remaining speech
+    intro = intro.overlay(weather_sound)
+
+    # Friday dance party music
+    if CURRENT_IS_FRIDAY:
+        friday_music = AudioSegment.from_mp3("friday.mp3") - 10
+
+        intro = intro.append(friday_music, crossfade=500)
+
+    # Overlay speech
+    overlay = intro.overlay(speech)
+
     combined = overlay + speech[len(intro):]
 
     combined.export(final_file, format="mp3")
