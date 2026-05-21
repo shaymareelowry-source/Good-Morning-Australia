@@ -202,9 +202,9 @@ def build_script():
     catchphrase = random.choice(CATCHPHRASES)
 
     if today_events:
-    event_text = "Today you have " + ", and ".join(today_events) + "."
+        event_text = "Today you have " + ", and ".join(today_events) + "."
     else:
-    event_text = "Today looks like a nice calm day."
+        event_text = "Today looks like a nice calm day."
 
     return f"""
 {greeting}
