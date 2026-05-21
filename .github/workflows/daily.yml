@@ -1,6 +1,8 @@
 name: Generate Daily Yoto Episode
 
 on:
+  schedule:
+    - cron: "0 19 * * *"
   workflow_dispatch:
 
 permissions:
