@@ -20,6 +20,8 @@ LON = 144.2794
 
 VOICE = "en-AU-NatashaNeural"
 
+CURRENT_CONDITION = "sunny"
+
 PAUSE_SHORT = ". . . . ."
 PAUSE_MEDIUM = ". . . . . . . . ."
 PAUSE_LONG = ". . . . . . . . . . . . . ."
@@ -222,6 +224,8 @@ def build_script():
     date_text = today.strftime("%d %B").lstrip("0")
 
     condition, min_temp, max_temp, rain, clothing = get_weather()
+    global CURRENT_CONDITION
+    CURRENT_CONDITION = condition
 
     afl = get_afl_update()
 
@@ -369,6 +373,16 @@ Have a kind, curious, adventurous day.
 See you tomorrow!
 """.strip()
 
+def get_weather_sound(condition):
+    if "rain" in condition:
+        return "rain.mp3"
+
+    elif "storm" in condition:
+        return "storm.mp3"
+
+    else:
+        return "birds.mp3"
+        
 async def make_audio(text):
     os.makedirs("docs/audio", exist_ok=True)
 
@@ -380,13 +394,19 @@ async def make_audio(text):
 
     intro = AudioSegment.from_mp3("intro.mp3")
 
+    weather_sound_file = get_weather_sound(CURRENT_CONDITION)
+
+    weather_sound = AudioSegment.from_mp3(weather_sound_file) - 18
+
     speech = AudioSegment.from_mp3(speech_file)
 
     # Lower intro volume slightly
     intro = intro - 12
 
     # First 5 seconds of intro underneath speech
-    overlay = intro.overlay(speech)
+    intro_with_weather = intro.overlay(weather_sound)
+    
+    overlay = intro_with_weather.overlay(speech)
 
     # Then continue remaining speech
     combined = overlay + speech[len(intro):]
