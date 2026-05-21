@@ -10,6 +10,7 @@ import edge_tts
 import requests
 import os
 from icalendar import Calendar
+from pydub import AudioSegment
 
 REPO_NAME = "Good-Morning-Australia"
 
@@ -283,11 +284,17 @@ See you tomorrow Australia!
 async def make_audio(text):
     os.makedirs("docs/audio", exist_ok=True)
 
-    output = "docs/audio/latest.mp3"
+    speech_file = "docs/audio/speech.mp3"
+    final_file = "docs/audio/latest.mp3"
 
     communicate = edge_tts.Communicate(text, VOICE)
+    await communicate.save(speech_file)
 
-    await communicate.save(output)
+    intro = AudioSegment.from_mp3("intro.mp3")
+    speech = AudioSegment.from_mp3(speech_file)
+
+    final_audio = intro + speech
+    final_audio.export(final_file, format="mp3")
 
 def make_rss(script):
     now = datetime.now(ZoneInfo("Australia/Melbourne"))
