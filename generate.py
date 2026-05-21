@@ -257,8 +257,6 @@ if birthday_events:
 elif today_events:
     event_text = "Today you have " + ", and ".join(today_events) + "."
 
-    return f"""
-
     if tomorrow_events:
         tomorrow_text = (
             "Tomorrow you have "
@@ -276,6 +274,9 @@ if is_friday:
 else:
     friday_text = ""
     
+    return f"""
+
+   
 {greeting}
 
 Good Morning!
