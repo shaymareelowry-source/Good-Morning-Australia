@@ -12,6 +12,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    env:
+      KIDS_CALENDAR_ICS_URL: ${{ secrets.KIDS_CALENDAR_ICS_URL }}
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
