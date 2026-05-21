@@ -8,6 +8,8 @@ from zoneinfo import ZoneInfo
 
 import edge_tts
 import requests
+import os
+from icalendar import Calendar
 
 REPO_NAME = "Good-Morning-Australia"
 
@@ -60,6 +62,38 @@ CATCHPHRASES = [
     "Don’t forget to laugh today!",
     "See if you can spot a bird outside today!",
 ]
+
+def get_calendar_events():
+    try:
+        calendar_url = os.environ.get("KIDS_CALENDAR_ICS_URL")
+
+        if not calendar_url:
+            return []
+
+        response = requests.get(calendar_url, timeout=20)
+
+        cal = Calendar.from_ical(response.text)
+
+        today = datetime.now(ZoneInfo("Australia/Melbourne")).date()
+
+        events = []
+
+        for component in cal.walk():
+            if component.name == "VEVENT":
+                start = component.get("dtstart").dt
+
+                if hasattr(start, "date"):
+                    start = start.date()
+
+                summary = str(component.get("summary"))
+
+                if start == today:
+                    events.append(summary)
+
+        return events
+
+    except Exception:
+        return []
 
 def get_weather():
     url = (
@@ -153,6 +187,8 @@ def build_script():
 
     afl = get_afl_update()
 
+    today_events = get_calendar_events()
+    
     letter, number = letter_number_of_day(today)
 
     greeting = random.choice(GREETINGS)
@@ -165,6 +201,11 @@ def build_script():
 
     catchphrase = random.choice(CATCHPHRASES)
 
+    if today_events:
+    event_text = "Today you have " + ", and ".join(today_events) + "."
+    else:
+    event_text = "Today looks like a nice calm day."
+
     return f"""
 {greeting}
 
@@ -173,6 +214,12 @@ Welcome to Good Morning Australia!
 Today is {day_name}, the {date_text}.
 
 Wake up sleepyheads, it’s time to start the day.
+
+{PAUSE_MEDIUM}
+
+{event_text}
+
+{PAUSE_MEDIUM}
 
 In Bendigo today, it will be {condition}, with a low of {min_temp} degrees and a top of {max_temp} degrees.
 
