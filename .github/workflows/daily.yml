@@ -3,6 +3,9 @@ name: Generate Daily Yoto Episode
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -22,8 +25,10 @@ jobs:
       - name: Run script
         run: python generate.py
 
-      - name: Upload audio file
-        uses: actions/upload-artifact@v4
-        with:
-          name: morning-audio
-          path: docs/audio/latest.mp3
+      - name: Commit generated files
+        run: |
+          git config user.name "Good Morning Australia Bot"
+          git config user.email "actions@github.com"
+          git add docs/
+          git commit -m "Update daily episode" || echo "No changes to commit"
+          git push
