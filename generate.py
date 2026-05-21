@@ -245,37 +245,45 @@ def build_script():
         event_text = "Today looks like a nice calm day."
         birthday_events = [
     e for e in today_events if "birthday" in e.lower()
-]
+        ]
 
-if birthday_events:
-    event_text = (
-        "Oooh! Today is a very special day! "
-        + ", and ".join(birthday_events)
-        + "!"
-    )
+    if birthday_events:
+        event_text = (
+            "Oooh! Today is a very special day! "
+            + ", and ".join(birthday_events)
+            + "!"
+        )
 
-elif today_events:
-    event_text = "Today you have " + ", and ".join(today_events) + "."
+    elif today_events:
+        event_text = (
+            "Today you have "
+            + ", and ".join(today_events)
+            + "."
+        )
+
+    else:
+        event_text = "Today looks like a nice calm day."
 
     if tomorrow_events:
         tomorrow_text = (
             "Tomorrow you have "
             + ", and ".join(tomorrow_events)
             + "."
-    )
+        )
+
     else:
         tomorrow_text = ""
 
-if is_friday:
-    friday_text = (
-        "It’s Friday dance party day! "
-        "Make sure you have a little wiggle today!"
-    )
-else:
-    friday_text = ""
-    
-    return f"""
+    if is_friday:
+        friday_text = (
+            "It’s Friday dance party day! "
+            "Make sure you have a little wiggle today!"
+        )
 
+    else:
+        friday_text = ""
+
+    return f"""
    
 {greeting}
 
