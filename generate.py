@@ -17,6 +17,10 @@ LON = 144.2794
 
 VOICE = "en-AU-NatashaNeural"
 
+PAUSE_SHORT = "..."
+PAUSE_MEDIUM = "...\n\n"
+PAUSE_LONG = "...\n\n...\n\n"
+
 GREETINGS = [
     "Good morning Darcy, Spencer and Neve!",
     "Wake up Darcy, Spencer and Neve!",
@@ -180,9 +184,13 @@ Today’s letter is {letter}.
 
 Can you think of something that starts with the letter {letter}?
 
+{PAUSE_LONG}
+
 Today’s number is {number}.
 
 Can you clap {number} times?
+
+{PAUSE_MEDIUM}
 
 Today’s Australian animal is the {animal}.
 
@@ -198,17 +206,25 @@ Now it’s time for today’s joke.
 
 {joke_q}
 
+{PAUSE_LONG}
+
 {joke_a}
 
 Movement challenge!
 
 {movement}
 
+{PAUSE_LONG}
+
 Before we go...
 
 Take a big deep breath in...
 
+{PAUSE_MEDIUM}
+
 ...and out.
+
+{PAUSE_MEDIUM}
 
 {catchphrase}
 
