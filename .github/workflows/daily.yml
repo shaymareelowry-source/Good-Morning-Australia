@@ -26,4 +26,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: morning-audio
-          path: episode.mp3
+          path: docs/audio/latest.mp3
