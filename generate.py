@@ -243,8 +243,9 @@ def build_script():
         event_text = "Today you have " + ", and ".join(today_events) + "."
     else:
         event_text = "Today looks like a nice calm day."
-        birthday_events = [
-    e for e in today_events if "birthday" in e.lower()
+        
+    birthday_events = [
+        e for e in today_events if "birthday" in e.lower()
         ]
 
     if birthday_events:
