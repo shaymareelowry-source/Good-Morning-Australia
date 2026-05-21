@@ -1,0 +1,4 @@
+name: Generate Daily Yoto Episode
+
+on:
+  workflow_dispatch:
