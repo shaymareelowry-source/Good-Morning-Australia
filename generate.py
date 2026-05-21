@@ -3,7 +3,7 @@ import asyncio
 import html
 import os
 import random
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 import edge_tts
@@ -89,6 +89,41 @@ def get_calendar_events():
                 summary = str(component.get("summary"))
 
                 if start == today:
+                    events.append(summary)
+
+        return events
+
+    except Exception:
+        return []
+
+def get_tomorrow_events():
+    try:
+        calendar_url = os.environ.get("KIDS_CALENDAR_ICS_URL")
+
+        if not calendar_url:
+            return []
+
+        response = requests.get(calendar_url, timeout=20)
+
+        cal = Calendar.from_ical(response.text)
+
+        tomorrow = (
+            datetime.now(ZoneInfo("Australia/Melbourne")).date()
+            + timedelta(days=1)
+        )
+
+        events = []
+
+        for component in cal.walk():
+            if component.name == "VEVENT":
+                start = component.get("dtstart").dt
+
+                if hasattr(start, "date"):
+                    start = start.date()
+
+                summary = str(component.get("summary"))
+
+                if start == tomorrow:
                     events.append(summary)
 
         return events
@@ -189,6 +224,8 @@ def build_script():
     afl = get_afl_update()
 
     today_events = get_calendar_events()
+
+    tomorrow_events = get_tomorrow_events()
     
     letter, number = letter_number_of_day(today)
 
@@ -206,8 +243,39 @@ def build_script():
         event_text = "Today you have " + ", and ".join(today_events) + "."
     else:
         event_text = "Today looks like a nice calm day."
+        birthday_events = [
+    e for e in today_events if "birthday" in e.lower()
+]
+
+if birthday_events:
+    event_text = (
+        "Oooh! Today is a very special day! "
+        + ", and ".join(birthday_events)
+        + "!"
+    )
+
+elif today_events:
+    event_text = "Today you have " + ", and ".join(today_events) + "."
 
     return f"""
+
+    if tomorrow_events:
+        tomorrow_text = (
+            "Tomorrow you have "
+            + ", and ".join(tomorrow_events)
+            + "."
+    )
+    else:
+        tomorrow_text = ""
+
+if is_friday:
+    friday_text = (
+        "It’s Friday dance party day! "
+        "Make sure you have a little wiggle today!"
+    )
+else:
+    friday_text = ""
+    
 {greeting}
 
 Good Morning!
@@ -227,6 +295,10 @@ In Bendigo today, it will be {condition}, with a low of {min_temp} degrees and a
 There is about a {rain} percent chance of rain.
 
 {clothing}
+
+{friday_text}
+
+{PAUSE_MEDIUM}
 
 Today’s letter is {letter}.
 
@@ -278,7 +350,11 @@ Take a big deep breath in...
 
 Have a kind, curious, adventurous day.
 
-See you tomorrow Australia!
+{PAUSE_MEDIUM}
+
+{tomorrow_text}
+
+See you tomorrow!
 """.strip()
 
 async def make_audio(text):
@@ -291,10 +367,19 @@ async def make_audio(text):
     await communicate.save(speech_file)
 
     intro = AudioSegment.from_mp3("intro.mp3")
+
     speech = AudioSegment.from_mp3(speech_file)
 
-    final_audio = intro + speech
-    final_audio.export(final_file, format="mp3")
+    # Lower intro volume slightly
+    intro = intro - 12
+
+    # First 5 seconds of intro underneath speech
+    overlay = intro.overlay(speech)
+
+    # Then continue remaining speech
+    combined = overlay + speech[len(intro):]
+
+    combined.export(final_file, format="mp3")
 
 def make_rss(script):
     now = datetime.now(ZoneInfo("Australia/Melbourne"))
