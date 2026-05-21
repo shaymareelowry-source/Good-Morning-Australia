@@ -20,9 +20,9 @@ LON = 144.2794
 
 VOICE = "en-AU-NatashaNeural"
 
-PAUSE_SHORT = "Hmmmm..."
-PAUSE_MEDIUM = "Let’s think about that for a moment..."
-PAUSE_LONG = "I’ll give you a little bit of thinking time..."
+PAUSE_SHORT = ". . . . ."
+PAUSE_MEDIUM = ". . . . . . . . ."
+PAUSE_LONG = ". . . . . . . . . . . . . ."
 
 GREETINGS = [
     "Good morning Darcy, Spencer and Neve!",
@@ -210,11 +210,11 @@ def build_script():
     return f"""
 {greeting}
 
-Welcome to Good Morning Australia!
+Good Morning!
 
 Today is {day_name}, the {date_text}.
 
-Wake up sleepyheads, it’s time to start the day.
+Wake up everyone, it’s time to start the day.
 
 {PAUSE_MEDIUM}
 
