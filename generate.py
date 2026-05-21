@@ -216,6 +216,8 @@ def letter_number_of_day(today):
 def build_script():
     today = datetime.now(ZoneInfo("Australia/Melbourne"))
 
+    is_friday = today.weekday() == 4
+
     day_name = today.strftime("%A")
     date_text = today.strftime("%d %B").lstrip("0")
 
