@@ -2,33 +2,48 @@
 <rss version="2.0">
 <channel>
 <title>Good Morning Australia</title>
-<link>https://YOUR_GITHUB_USERNAME.github.io/good-morning-australia</link>
-<description>A daily preschool morning update for Yoto.</description>
+<link>https://shaymareelowry-source.github.io/Good-Morning-Australia</link>
+<description>Daily Australian preschool breakfast radio.</description>
 <language>en-au</language>
+
 <item>
 <title>Good Morning Australia - 21 May 2026</title>
-<description>Good morning Australia!
+<description>Hello breakfast crew!
+
+Welcome to Good Morning Australia!
 
 Today is Thursday, the 21 May.
 
+Wake up sleepyheads, it’s time to start the day.
+
 In Bendigo today, it will be mostly sunny, with a low of 6 degrees and a top of 15 degrees.
+
 There is about a 0 percent chance of rain.
+
 You might need a warm jumper today.
 
 Today’s letter is K.
-Can you think of something that starts with K?
+
+Can you think of something that starts with the letter K?
 
 Today’s number is 1.
+
 Can you clap 1 times?
 
-Today’s Australian animal is the koala.
-Did you know? Koalas sleep for many hours because gum leaves do not give them much energy.
+Today’s Australian animal is the emu.
 
-AFL update!
-There are no f</description>
-<pubDate>Thu, 21 May 2026 14:49:32 +1000</pubDate>
-<guid>https://YOUR_GITHUB_USERNAME.github.io/good-morning-australia/audio/latest.mp3?date=20260521</guid>
-<enclosure url="https://YOUR_GITHUB_USERNAME.github.io/good-morning-australia/audio/latest.mp3" length="1000000" type="audio/mpeg"/>
+Did you know?
+
+Emus </description>
+<pubDate>Thu, 21 May 2026 15:04:29 +1000</pubDate>
+
+<guid>https://shaymareelowry-source.github.io/Good-Morning-Australia/audio/latest.mp3?date=20260521</guid>
+
+<enclosure
+url="https://shaymareelowry-source.github.io/Good-Morning-Australia/audio/latest.mp3"
+length="1000000"
+type="audio/mpeg"/>
 </item>
+
 </channel>
 </rss>
