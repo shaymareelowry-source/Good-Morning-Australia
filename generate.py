@@ -19,15 +19,15 @@ LON = 144.2794
 
 VOICE = "en-AU-NatashaNeural"
 
-PAUSE_SHORT = "..."
-PAUSE_MEDIUM = "...\n\n"
-PAUSE_LONG = "...\n\n...\n\n"
+PAUSE_SHORT = "Hmmmm..."
+PAUSE_MEDIUM = "Let’s think about that for a moment..."
+PAUSE_LONG = "I’ll give you a little bit of thinking time..."
 
 GREETINGS = [
     "Good morning Darcy, Spencer and Neve!",
     "Wake up Darcy, Spencer and Neve!",
     "Hello breakfast crew!",
-    "Good morning sleepyheads!",
+    "Good morning Walkers!",
 ]
 
 ANIMALS = [
