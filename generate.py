@@ -176,67 +176,63 @@ def get_weather():
 
 def get_afl_update():
     try:
-        year = datetime.now(ZoneInfo("Australia/Melbourne")).year
+        today = datetime.now(ZoneInfo("Australia/Melbourne")).date()
+        yesterday = today - timedelta(days=1)
+        year = today.year
 
-        url = "https://api.squiggle.com.au/?q=games"
+        url = f"https://api.squiggle.com.au/?q=games&year={year}"
 
-        games = requests.get(url, timeout=20).json().get("games", [])
+        headers = {
+            "User-Agent": "Good Morning Australia Yoto project"
+        }
 
-        print("AFL DEBUG - total games:", len(games))
+        data = requests.get(url, headers=headers, timeout=20).json()
+        games = data.get("games", [])
 
-        for g in games[-10:]:
-            print(
-                "AFL DEBUG:",
-                g.get("date"),
-                g.get("hteam"),
-                g.get("hscore"),
-                "vs",
-                g.get("ateam"),
-                g.get("ascore"),
-                "complete:",
-                g.get("complete"),
-                "updated:",
-                g.get("updated"),
-            )
+        recent_games = []
 
-        scored_games = [
-            g for g in games
-            if g.get("hscore") is not None
-            and g.get("ascore") is not None
-        ]
+        for g in games:
+            game_date_raw = g.get("date")
 
-        if not scored_games:
-            return "No AFL scores today."
+            if not game_date_raw:
+                continue
+
+            game_date = datetime.fromisoformat(
+                game_date_raw.replace("Z", "+00:00")
+            ).astimezone(
+                ZoneInfo("Australia/Melbourne")
+            ).date()
+
+            if game_date in [yesterday, today]:
+                if g.get("hscore") is not None and g.get("ascore") is not None:
+                    recent_games.append(g)
+
+        if not recent_games:
+            return "There were no AFL scores from last night."
 
         latest = sorted(
-            scored_games,
-            key=lambda g: g.get("updated", g.get("date", ""))
+            recent_games,
+            key=lambda g: g.get("date", "")
         )[-1]
 
         hteam = latest["hteam"]
         ateam = latest["ateam"]
-
         hscore = latest["hscore"]
         ascore = latest["ascore"]
 
         margin = abs(hscore - ascore)
 
         if hscore > ascore:
-            return (
-                f"{hteam} had a great win against "
-                f"{ateam} by {margin} points!"
-            )
+            return f"{hteam} beat {ateam} by {margin} points."
 
         elif ascore > hscore:
-            return (
-                f"{ateam} had a great win against "
-                f"{hteam} by {margin} points!"
-            )
+            return f"{ateam} beat {hteam} by {margin} points."
 
         else:
-            return f"{hteam} and {ateam} had a draw!"
+            return f"{hteam} and {ateam} had a draw."
 
-    except Exception:
+    except Exception as e:
+        print("AFL ERROR:", e)
         return "The AFL update is having a little rest today."
 
 def letter_number_of_day(today):
