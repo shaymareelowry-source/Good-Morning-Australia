@@ -525,6 +525,14 @@ async def make_audio(text):
 
     final_audio.export(final_file, format="mp3")
 
+def clean_rss_description(script):
+    cleaned = script
+
+    for marker in SOUND_MARKERS:
+        cleaned = cleaned.replace(marker, "")
+
+    return cleaned[:500]
+    
 def make_rss(script):
     now = datetime.now(ZoneInfo("Australia/Melbourne"))
 
@@ -537,7 +545,7 @@ def make_rss(script):
     base_url = f"https://shaymareelowry-source.github.io/{REPO_NAME}"
 
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <image>
     <url>{base_url}/podcast.png</url>
@@ -553,7 +561,7 @@ def make_rss(script):
 
 <item>
 <title>{html.escape(title)}</title>
-<description>{html.escape(script[:500])}</description>
+<description>{html.escape(clean_rss_description(script))}</description>
 <pubDate>{pub_date}</pubDate>
 
 <guid>{base_url}/audio/{audio_filename}</guid>
