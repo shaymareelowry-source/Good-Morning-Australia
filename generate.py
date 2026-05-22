@@ -489,10 +489,14 @@ async def make_audio(text):
         final_audio += AudioSegment.silent(duration=400)
         final_audio += friday_music
 
-    if os.path.exists("outro.mp3"):
-        outro = AudioSegment.from_mp3("outro.mp3") - 6
+    if os.path.exists("intro.mp3"):
+        outro = AudioSegment.from_mp3("intro.mp3") - 12
+
+        # Shorten outro slightly
+        outro = outro[:5000]
+
         final_audio += AudioSegment.silent(duration=300)
-        final_audio += outro
+        final_audio += outro.fade_out(2000)
 
     final_audio.export(final_file, format="mp3")
 
