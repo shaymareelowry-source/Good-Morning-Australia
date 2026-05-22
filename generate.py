@@ -182,34 +182,45 @@ def get_afl_update():
 
         games = requests.get(url, timeout=20).json().get("games", [])
 
-        finished = [
+        scored_games = [
             g for g in games
-            if g.get("complete") == 100 and g.get("hteam") and g.get("ateam")
+            if g.get("hscore") is not None
+            and g.get("ascore") is not None
         ]
 
-        if not finished:
+        if not scored_games:
             return "No AFL scores today."
 
         latest = sorted(
-            finished,
+            scored_games,
             key=lambda g: g.get("updated", g.get("date", ""))
         )[-1]
 
         hteam = latest["hteam"]
         ateam = latest["ateam"]
 
-        hscore = latest.get("hscore")
-        ascore = latest.get("ascore")
+        hscore = latest["hscore"]
+        ascore = latest["ascore"]
+
+        margin = abs(hscore - ascore)
 
         if hscore > ascore:
-            return f"{hteam} had a great win against {ateam}!"
+            return (
+                f"{hteam} had a great win against "
+                f"{ateam} by {margin} points!"
+            )
+
         elif ascore > hscore:
-            return f"{ateam} had a great win against {hteam}!"
+            return (
+                f"{ateam} had a great win against "
+                f"{hteam} by {margin} points!"
+            )
+
         else:
             return f"{hteam} and {ateam} had a draw!"
 
     except Exception:
-        return "The AFL update is having a rest today."
+        return "The AFL update is having a little rest today."
 
 def letter_number_of_day(today):
     day_of_year = int(today.strftime("%j"))
