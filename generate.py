@@ -176,73 +176,73 @@ def get_weather():
 
 def get_afl_update():
     try:
-        today = datetime.now(ZoneInfo("Australia/Melbourne")).date()
-        yesterday = today - timedelta(days=1)
+        api_key = os.environ.get("ODDS_API_KEY")
 
-        dates = [
-            yesterday.strftime("%Y%m%d"),
-            today.strftime("%Y%m%d"),
-        ]
+        if not api_key:
+            return "The AFL update is not connected yet."
 
-        headers = {
-            "User-Agent": "Good Morning Australia Yoto project"
+        url = "https://api.the-odds-api.com/v4/sports/aussierules_afl/scores"
+
+        params = {
+            "apiKey": api_key,
+            "daysFrom": 3,
+            "dateFormat": "iso",
         }
 
-        games_found = []
+        data = requests.get(url, params=params, timeout=20).json()
 
-        for date in dates:
-            url = (
-                "https://site.api.espn.com/apis/site/v2/sports/afl/afl/scoreboard"
-                f"?dates={date}"
+        finished_games = []
+
+        for game in data:
+            if not game.get("completed"):
+                continue
+
+            scores = game.get("scores") or []
+
+            if len(scores) < 2:
+                continue
+
+            home_team = game.get("home_team")
+            away_team = game.get("away_team")
+
+            score_map = {
+                s.get("name"): int(s.get("score", 0))
+                for s in scores
+            }
+
+            if home_team not in score_map or away_team not in score_map:
+                continue
+
+            game_time = datetime.fromisoformat(
+                game["commence_time"].replace("Z", "+00:00")
             )
 
-            data = requests.get(url, headers=headers, timeout=20).json()
+            finished_games.append({
+                "time": game_time,
+                "home": home_team,
+                "away": away_team,
+                "home_score": score_map[home_team],
+                "away_score": score_map[away_team],
+            })
 
-            for event in data.get("events", []):
-                competitions = event.get("competitions", [])
-
-                if not competitions:
-                    continue
-
-                comp = competitions[0]
-                status_type = comp.get("status", {}).get("type", {})
-
-                if not status_type.get("completed"):
-                    continue
-
-                competitors = comp.get("competitors", [])
-
-                if len(competitors) < 2:
-                    continue
-
-                team1 = competitors[0]
-                team2 = competitors[1]
-
-                name1 = team1["team"].get("displayName", "One team")
-                name2 = team2["team"].get("displayName", "the other team")
-
-                score1 = int(team1.get("score", 0))
-                score2 = int(team2.get("score", 0))
-
-                games_found.append((name1, score1, name2, score2))
-
-        if not games_found:
+        if not finished_games:
             return "There were no AFL scores from last night."
 
-        name1, score1, name2, score2 = games_found[-1]
-        margin = abs(score1 - score2)
+        latest = sorted(finished_games, key=lambda g: g["time"])[-1]
 
-        if score1 > score2:
-            return f"{name1} beat {name2} by {margin} points."
+        margin = abs(latest["home_score"] - latest["away_score"])
 
-        elif score2 > score1:
-            return f"{name2} beat {name1} by {margin} points."
+        if latest["home_score"] > latest["away_score"]:
+            return f"{latest['home']} beat {latest['away']} by {margin} points."
+
+        elif latest["away_score"] > latest["home_score"]:
+            return f"{latest['away']} beat {latest['home']} by {margin} points."
 
         else:
-            return f"{name1} and {name2} had a draw."
+            return f"{latest['home']} and {latest['away']} had a draw."
 
     except Exception as e:
-        print("AFL ESPN ERROR:", e)
+        print("ODDS AFL ERROR:", e)
         return "The AFL update is having a little rest today."
         
 def letter_number_of_day(today):
