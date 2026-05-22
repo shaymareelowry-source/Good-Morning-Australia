@@ -1,4 +1,4 @@
-Good morning Walkers!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
@@ -8,7 +8,7 @@ Wake up everyone, it’s time to start the day.
 
 . . . . . . . . .
 
-Today you have Iddy Biddy Ball, and Swimming - Darcy & Spencer.
+Today you have Swimming - Darcy & Spencer, and Iddy Biddy Ball.
 
 . . . . . . . . .
 
@@ -32,7 +32,7 @@ Today’s letter is L.
 
 Can you think of something that starts with the letter L?
 
-. . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
@@ -44,11 +44,11 @@ Can you clap 2 times?
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
@@ -56,23 +56,23 @@ AFL update!
 
 Hawthorn Hawks beat Adelaide Crows by 9 points.
 
-[JOKE_SOUND]
+[_SOUND]
 
-Now it’s time for today’s joke.
+Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why did the banana go to the doctor?
 
-. . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stomp like a wombat?
 
-. . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
 
 Before we go...
 
@@ -84,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
