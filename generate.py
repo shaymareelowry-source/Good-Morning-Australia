@@ -540,7 +540,7 @@ def make_rss(script):
 <rss version="2.0">
 <channel>
 <image>
-    <url>{base_url}/podcast.jpg</url>
+    <url>{base_url}/podcast.png</url>
     <title>Good Morning Family</title>
     <link>{base_url}/feed.xml</link>
 </image>
