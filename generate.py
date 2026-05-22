@@ -13,6 +13,7 @@ from icalendar import Calendar
 from pydub import AudioSegment
 
 REPO_NAME = "Good-Morning-Australia"
+SHOW_NAME = "Good Morning Family"
 
 # Bendigo coordinates
 LAT = -36.7570
