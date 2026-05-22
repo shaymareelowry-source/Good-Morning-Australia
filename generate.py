@@ -178,7 +178,7 @@ def get_afl_update():
     try:
         year = datetime.now(ZoneInfo("Australia/Melbourne")).year
 
-        url = f"https://api.squiggle.com.au/?q=games;year={year}"
+        url = "https://api.squiggle.com.au/?q=games"
 
         games = requests.get(url, timeout=20).json().get("games", [])
 
