@@ -30,7 +30,7 @@ PAUSE_LONG = ". . . . . . . . . . . . . ."
 GREETINGS = [
     "Good morning Darcy, Spencer and Neve!",
     "Wake up Darcy, Spencer and Neve!",
-    "Hello breakfast crew!",
+    "Wakey Wakey breakfast crew!",
     "Good morning Walkers!",
 ]
 
@@ -182,6 +182,23 @@ def get_afl_update():
 
         games = requests.get(url, timeout=20).json().get("games", [])
 
+        print("AFL DEBUG - total games:", len(games))
+
+        for g in games[-10:]:
+            print(
+                "AFL DEBUG:",
+                g.get("date"),
+                g.get("hteam"),
+                g.get("hscore"),
+                "vs",
+                g.get("ateam"),
+                g.get("ascore"),
+                "complete:",
+                g.get("complete"),
+                "updated:",
+                g.get("updated"),
+            )
+
         scored_games = [
             g for g in games
             if g.get("hscore") is not None
@@ -310,7 +327,7 @@ def build_script():
    
 {greeting}
 
-Good Morning!
+Hello everyone!
 
 Today is {day_name}, the {date_text}.
 
@@ -380,7 +397,7 @@ Take a big deep breath in...
 
 {catchphrase}
 
-Have a kind, curious, adventurous day.
+Have a kind and wonderful day.
 
 {PAUSE_MEDIUM}
 
