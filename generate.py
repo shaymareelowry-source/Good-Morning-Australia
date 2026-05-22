@@ -27,6 +27,7 @@ CURRENT_IS_FRIDAY = False
 SOUND_MARKERS = {
     "[WEATHER_SOUND]": "weather.mp3",
     "[LETTER_SOUND]": "letter.mp3",
+    "[NUMBER_SOUND]": "number.mp3",
     "[ANIMAL_SOUND]": "animal.mp3",
     "[AFL_SOUND]": "afl.mp3",
     "[JOKE_SOUND]": "joke.mp3",
@@ -499,6 +500,8 @@ async def make_audio(text):
                 final_audio += AudioSegment.silent(duration=250)
                 final_audio += sound
                 final_audio += AudioSegment.silent(duration=250)
+            else:
+                print("Missing sound file:", content)
             continue
 
         chunk_text = content.strip()
