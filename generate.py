@@ -25,9 +25,14 @@ CURRENT_CONDITION = "sunny"
 CURRENT_IS_FRIDAY = False
 
 SOUND_MARKERS = {
-    "[FRIDAY_SOUND]": "friday.mp3",
+    "[WEATHER_SOUND]": "weather.mp3",
+    "[LETTER_SOUND]": "letter.mp3",
+    "[ANIMAL_SOUND]": "animal.mp3",
+    "[AFL_SOUND]": "afl.mp3",
+    "[JOKE_SOUND]": "joke.mp3",
+    "[MOVEMENT_SOUND]": "movement.mp3",
     "[BIRTHDAY_SOUND]": "birthday.mp3",
-    "[DING]": "ding.mp3",
+    "[FRIDAY_SOUND]": "friday.mp3",
 }
 
 PAUSE_SHORT = ". . . . ."
@@ -268,7 +273,7 @@ def build_script():
     CURRENT_IS_FRIDAY = is_friday
     day_name = today.strftime("%A")
     date_text = today.strftime("%d %B").lstrip("0")
-
+    
     condition, min_temp, max_temp, rain, clothing = get_weather()
     global CURRENT_CONDITION
     CURRENT_CONDITION = condition
@@ -352,6 +357,8 @@ Wake up everyone, it’s time to start the day.
 
 {PAUSE_MEDIUM}
 
+[WEATHER_SOUND]
+
 In Bendigo today, it will be {condition}, with a low of {min_temp} degrees and a top of {max_temp} degrees.
 
 There is about a {rain} percent chance of rain.
@@ -362,11 +369,15 @@ There is about a {rain} percent chance of rain.
 
 {PAUSE_MEDIUM}
 
+[LETTER_SOUND]
+
 Today’s letter is {letter}.
 
 Can you think of something that starts with the letter {letter}?
 
 {PAUSE_LONG}
+
+[NUMBER_SOUND]
 
 Today’s number is {number}.
 
@@ -374,15 +385,21 @@ Can you clap {number} times?
 
 {PAUSE_MEDIUM}
 
+[ANIMAL_SOUND]
+
 Today’s Australian animal is the {animal}.
 
 Did you know?
 
 {fact}
 
+[AFL_SOUND]
+
 AFL update!
 
 {afl}
+
+[JOKE_SOUND]
 
 Now it’s time for today’s joke.
 
@@ -391,6 +408,8 @@ Now it’s time for today’s joke.
 {PAUSE_LONG}
 
 {joke_a}
+
+[MOVEMENT_SOUND]
 
 Movement challenge!
 
@@ -438,63 +457,69 @@ async def make_audio(text):
     os.makedirs("docs/audio", exist_ok=True)
 
     today_stamp = datetime.now(ZoneInfo("Australia/Melbourne")).strftime("%Y-%m-%d")
-
-    speech_file = "docs/audio/speech.mp3"
-    clean_speech_file = "docs/audio/clean_speech.mp3"
     final_file = f"docs/audio/{today_stamp}.mp3"
-
-    # Generate speech without reading sound markers aloud
-    clean_text = text
-
-    for marker in SOUND_MARKERS:
-        clean_text = clean_text.replace(marker, "")
-
-    communicate = edge_tts.Communicate(clean_text, VOICE)
-    await communicate.save(clean_speech_file)
-
-    speech = AudioSegment.from_mp3(clean_speech_file)
 
     final_audio = AudioSegment.silent(duration=500)
 
-    # Intro plays in full first
     if os.path.exists("intro.mp3"):
         intro = AudioSegment.from_mp3("intro.mp3") - 3
         final_audio += intro
 
-    # Weather ambience under first part of voice only
-    weather_sound_file = get_weather_sound(CURRENT_CONDITION)
+    parts = []
+    remaining = text
 
-    if os.path.exists(weather_sound_file):
-        weather = AudioSegment.from_mp3(weather_sound_file) - 22
+    while remaining:
+        marker_positions = [
+            (remaining.find(marker), marker)
+            for marker in SOUND_MARKERS
+            if remaining.find(marker) != -1
+        ]
 
-        # Make weather ambience last up to 12 seconds
-        target_duration = min(len(speech), 12000)
+        if not marker_positions:
+            parts.append(("text", remaining))
+            break
 
-        while len(weather) < target_duration:
-            weather += weather
+        marker_pos, marker = min(marker_positions, key=lambda x: x[0])
 
-        weather = weather[:target_duration]
+        before = remaining[:marker_pos]
+        after = remaining[marker_pos + len(marker):]
 
-        speech_start = speech[:target_duration].overlay(weather)
-        speech_rest = speech[target_duration:]
+        if before.strip():
+            parts.append(("text", before))
 
-        speech = speech_start + speech_rest
+        parts.append(("sound", SOUND_MARKERS[marker]))
+        remaining = after
 
-    final_audio += speech
+    chunk_number = 0
 
-    # Add Friday music at the end for now, clean and reliable
-    # Next step can be precise mid-script placement.
-    if CURRENT_IS_FRIDAY and os.path.exists("friday.mp3"):
-        friday_music = AudioSegment.from_mp3("friday.mp3") - 4
-        final_audio += AudioSegment.silent(duration=400)
-        final_audio += friday_music
+    for part_type, content in parts:
+        if part_type == "sound":
+            if os.path.exists(content):
+                sound = AudioSegment.from_mp3(content) - 4
+                final_audio += AudioSegment.silent(duration=250)
+                final_audio += sound
+                final_audio += AudioSegment.silent(duration=250)
+            continue
+
+        chunk_text = content.strip()
+
+        if not chunk_text:
+            continue
+
+        chunk_file = f"docs/audio/chunk_{chunk_number}.mp3"
+
+        communicate = edge_tts.Communicate(chunk_text, VOICE)
+        await communicate.save(chunk_file)
+
+        speech = AudioSegment.from_mp3(chunk_file)
+        final_audio += speech
+        final_audio += AudioSegment.silent(duration=300)
+
+        chunk_number += 1
 
     if os.path.exists("intro.mp3"):
         outro = AudioSegment.from_mp3("intro.mp3") - 12
-
-        # Shorten outro slightly
         outro = outro[:5000]
-
         final_audio += AudioSegment.silent(duration=300)
         final_audio += outro.fade_out(2000)
 
