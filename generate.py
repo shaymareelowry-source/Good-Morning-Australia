@@ -420,11 +420,16 @@ See you tomorrow!
 """.strip()
 
 def get_weather_sound(condition):
-    if "rain" in condition:
+    condition = condition.lower()
+
+    if "storm" in condition:
+        return "storm.mp3"
+
+    elif "rain" in condition:
         return "rain.mp3"
 
-    elif "storm" in condition:
-        return "storm.mp3"
+    elif "cloud" in condition:
+        return "cloudy.mp3"
 
     else:
         return "birds.mp3"
