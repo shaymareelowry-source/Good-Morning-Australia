@@ -1,4 +1,4 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
@@ -8,7 +8,7 @@ Wake up everyone, it’s time to start the day.
 
 . . . . . . . . .
 
-Today you have Swimming - Darcy & Spencer, and Iddy Biddy Ball.
+Today you have Iddy Biddy Ball, and Swimming - Darcy & Spencer.
 
 . . . . . . . . .
 
@@ -44,11 +44,11 @@ Can you clap 2 times?
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
@@ -84,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
