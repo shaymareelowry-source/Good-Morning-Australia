@@ -30,7 +30,7 @@ SOUND_MARKERS = {
     "[NUMBER_SOUND]": "number.mp3",
     "[ANIMAL_SOUND]": "animal.mp3",
     "[AFL_SOUND]": "afl.mp3",
-    "[JOKE_SOUND]": "joke.mp3",
+    "[_SOUND]": "joke.mp3",
     "[MOVEMENT_SOUND]": "movement.mp3",
     "[BIRTHDAY_SOUND]": "birthday.mp3",
     "[FRIDAY_SOUND]": "friday.mp3",
@@ -38,7 +38,7 @@ SOUND_MARKERS = {
 
 PAUSE_SHORT = ". . . . ."
 PAUSE_MEDIUM = ". . . . . . . . ."
-PAUSE_LONG = ". . . . . . . . . . . . . ."
+PAUSE_LONG = ". . . . . . . . . . . . . . . ."
 
 GREETINGS = [
     "Good morning Darcy, Spencer and Neve!",
@@ -58,7 +58,7 @@ ANIMALS = [
     ("koala", "Koalas sleep for many hours every day."),
 ]
 
-JOKES = [
+S = [
     ("What do clouds wear under their raincoats?", "Thunderwear!"),
     ("What do you call a sleeping bull?", "A bulldozer!"),
     ("Why did the banana go to the doctor?", "Because it was not peeling well!"),
@@ -291,7 +291,7 @@ def build_script():
 
     animal, fact = random.choice(ANIMALS)
 
-    joke_q, joke_a = random.choice(JOKES)
+    _q, _a = random.choice(S)
 
     movement = random.choice(MOVEMENTS)
 
@@ -400,15 +400,15 @@ AFL update!
 
 {afl}
 
-[JOKE_SOUND]
+[_SOUND]
 
-Now it’s time for today’s joke.
+Now it’s time for today’s .
 
-{joke_q}
+{_q}
 
 {PAUSE_LONG}
 
-{joke_a}
+{_a}
 
 [MOVEMENT_SOUND]
 
@@ -516,9 +516,16 @@ async def make_audio(text):
 
         speech = AudioSegment.from_mp3(chunk_file)
         final_audio += speech
-        final_audio += AudioSegment.silent(duration=300)
+
+        # Extra long pause after joke questions
+        if "Why" in chunk_text or "What" in chunk_text:
+            final_audio += AudioSegment.silent(duration=2200)
+
+        else:
+            final_audio += AudioSegment.silent(duration=900)
 
         chunk_number += 1
+       
 
     if os.path.exists("intro.mp3"):
         outro = AudioSegment.from_mp3("intro.mp3") - 12
