@@ -14,6 +14,7 @@ jobs:
 
     env:
       KIDS_CALENDAR_ICS_URL: ${{ secrets.KIDS_CALENDAR_ICS_URL }}
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
 
     steps:
       - name: Checkout repo
