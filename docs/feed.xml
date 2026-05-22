@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
+<image>
+    <url>https://shaymareelowry-source.github.io/Good-Morning-Australia/podcast.png</url>
+    <title>Good Morning Family</title>
+    <link>https://shaymareelowry-source.github.io/Good-Morning-Australia/feed.xml</link>
+</image>
+
+<itunes:image href="https://shaymareelowry-source.github.io/Good-Morning-Australia/podcast.png"/>
 <title>Good Morning Family</title>
 <link>https://shaymareelowry-source.github.io/Good-Morning-Australia</link>
 <description>Daily Australian preschool breakfast radio.</description>
@@ -33,7 +40,7 @@ It sounds like a good day for comfy clothes.
 [FRIDAY_SOUND]
 
 It’s Friday dance party day! Make sure you have a litt</description>
-<pubDate>Fri, 22 May 2026 20:05:06 +1000</pubDate>
+<pubDate>Fri, 22 May 2026 20:20:16 +1000</pubDate>
 
 <guid>https://shaymareelowry-source.github.io/Good-Morning-Australia/audio/2026-05-22.mp3</guid>
 
