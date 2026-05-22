@@ -426,7 +426,8 @@ async def make_audio(text):
     os.makedirs("docs/audio", exist_ok=True)
 
     speech_file = "docs/audio/speech.mp3"
-    final_file = "docs/audio/latest.mp3"
+    today_stamp = datetime.now(ZoneInfo("Australia/Melbourne")).strftime("%Y-%m-%d")
+    final_file = f"docs/audio/{today_stamp}.mp3"
 
     communicate = edge_tts.Communicate(text, VOICE)
     await communicate.save(speech_file)
@@ -462,14 +463,16 @@ def make_rss(script):
 
     pub_date = now.strftime("%a, %d %b %Y %H:%M:%S %z")
 
-    title = f"Good Morning Australia - {now.strftime('%d %B %Y')}"
+    title = f"Good Morning Family - {now.strftime('%d %B %Y')}"
+    
+    audio_filename = now.strftime("%Y-%m-%d") + ".mp3"
 
     base_url = f"https://shaymareelowry-source.github.io/{REPO_NAME}"
 
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Good Morning Australia</title>
+<title>Good Morning Family</title>
 <link>{base_url}</link>
 <description>Daily Australian preschool breakfast radio.</description>
 <language>en-au</language>
@@ -479,10 +482,10 @@ def make_rss(script):
 <description>{html.escape(script[:500])}</description>
 <pubDate>{pub_date}</pubDate>
 
-<guid>{base_url}/audio/latest.mp3?date={now.strftime('%Y%m%d')}</guid>
+<guid>{base_url}/audio/{audio_filename}</guid>
 
 <enclosure
-url="{base_url}/audio/latest.mp3"
+url="{base_url}/audio/{audio_filename}"
 length="1000000"
 type="audio/mpeg"/>
 </item>
