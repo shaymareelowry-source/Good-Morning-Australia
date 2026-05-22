@@ -539,6 +539,13 @@ def make_rss(script):
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
+<image>
+    <url>{base_url}/podcast.jpg</url>
+    <title>Good Morning Family</title>
+    <link>{base_url}/feed.xml</link>
+</image>
+
+<itunes:image href="{base_url}/podcast.png"/>
 <title>Good Morning Family</title>
 <link>{base_url}</link>
 <description>Daily Australian preschool breakfast radio.</description>
