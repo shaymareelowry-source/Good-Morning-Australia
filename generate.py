@@ -178,63 +178,73 @@ def get_afl_update():
     try:
         today = datetime.now(ZoneInfo("Australia/Melbourne")).date()
         yesterday = today - timedelta(days=1)
-        year = today.year
 
-        url = f"https://api.squiggle.com.au/?q=games&year={year}"
+        dates = [
+            yesterday.strftime("%Y%m%d"),
+            today.strftime("%Y%m%d"),
+        ]
 
         headers = {
             "User-Agent": "Good Morning Australia Yoto project"
         }
 
-        data = requests.get(url, headers=headers, timeout=20).json()
-        games = data.get("games", [])
+        games_found = []
 
-        recent_games = []
+        for date in dates:
+            url = (
+                "https://site.api.espn.com/apis/site/v2/sports/afl/afl/scoreboard"
+                f"?dates={date}"
+            )
 
-        for g in games:
-            game_date_raw = g.get("date")
+            data = requests.get(url, headers=headers, timeout=20).json()
 
-            if not game_date_raw:
-                continue
+            for event in data.get("events", []):
+                competitions = event.get("competitions", [])
 
-            game_date = datetime.fromisoformat(
-                game_date_raw.replace("Z", "+00:00")
-            ).astimezone(
-                ZoneInfo("Australia/Melbourne")
-            ).date()
+                if not competitions:
+                    continue
 
-            if game_date in [yesterday, today]:
-                if g.get("hscore") is not None and g.get("ascore") is not None:
-                    recent_games.append(g)
+                comp = competitions[0]
+                status_type = comp.get("status", {}).get("type", {})
 
-        if not recent_games:
+                if not status_type.get("completed"):
+                    continue
+
+                competitors = comp.get("competitors", [])
+
+                if len(competitors) < 2:
+                    continue
+
+                team1 = competitors[0]
+                team2 = competitors[1]
+
+                name1 = team1["team"].get("displayName", "One team")
+                name2 = team2["team"].get("displayName", "the other team")
+
+                score1 = int(team1.get("score", 0))
+                score2 = int(team2.get("score", 0))
+
+                games_found.append((name1, score1, name2, score2))
+
+        if not games_found:
             return "There were no AFL scores from last night."
 
-        latest = sorted(
-            recent_games,
-            key=lambda g: g.get("date", "")
-        )[-1]
+        name1, score1, name2, score2 = games_found[-1]
+        margin = abs(score1 - score2)
 
-        hteam = latest["hteam"]
-        ateam = latest["ateam"]
-        hscore = latest["hscore"]
-        ascore = latest["ascore"]
+        if score1 > score2:
+            return f"{name1} beat {name2} by {margin} points."
 
-        margin = abs(hscore - ascore)
-
-        if hscore > ascore:
-            return f"{hteam} beat {ateam} by {margin} points."
-
-        elif ascore > hscore:
-            return f"{ateam} beat {hteam} by {margin} points."
+        elif score2 > score1:
+            return f"{name2} beat {name1} by {margin} points."
 
         else:
-            return f"{hteam} and {ateam} had a draw."
+            return f"{name1} and {name2} had a draw."
 
     except Exception as e:
-        print("AFL ERROR:", e)
+        print("AFL ESPN ERROR:", e)
         return "The AFL update is having a little rest today."
-
+        
 def letter_number_of_day(today):
     day_of_year = int(today.strftime("%j"))
 
