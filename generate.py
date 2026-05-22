@@ -190,7 +190,10 @@ def get_afl_update():
         if not finished:
             return "No AFL scores today."
 
-        latest = sorted(finished, key=lambda g: g.get("date", ""))[-1]
+        latest = sorted(
+            finished,
+            key=lambda g: g.get("updated", g.get("date", ""))
+        )[-1]
 
         hteam = latest["hteam"]
         ateam = latest["ateam"]
