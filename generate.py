@@ -24,6 +24,12 @@ VOICE = "en-AU-NatashaNeural"
 CURRENT_CONDITION = "sunny"
 CURRENT_IS_FRIDAY = False
 
+SOUND_MARKERS = {
+    "[FRIDAY_SOUND]": "friday.mp3",
+    "[BIRTHDAY_SOUND]": "birthday.mp3",
+    "[DING]": "ding.mp3",
+}
+
 PAUSE_SHORT = ". . . . ."
 PAUSE_MEDIUM = ". . . . . . . . ."
 PAUSE_LONG = ". . . . . . . . . . . . . ."
@@ -323,10 +329,10 @@ def build_script():
 
     if is_friday:
         friday_text = (
+            "[FRIDAY_SOUND]\n\n"
             "It’s Friday dance party day! "
             "Make sure you have a little wiggle today!"
         )
-
     else:
         friday_text = ""
 
@@ -426,38 +432,64 @@ def get_weather_sound(condition):
 async def make_audio(text):
     os.makedirs("docs/audio", exist_ok=True)
 
-    speech_file = "docs/audio/speech.mp3"
     today_stamp = datetime.now(ZoneInfo("Australia/Melbourne")).strftime("%Y-%m-%d")
+
+    speech_file = "docs/audio/speech.mp3"
+    clean_speech_file = "docs/audio/clean_speech.mp3"
     final_file = f"docs/audio/{today_stamp}.mp3"
 
-    communicate = edge_tts.Communicate(text, VOICE)
-    await communicate.save(speech_file)
+    # Generate speech without reading sound markers aloud
+    clean_text = text
 
-    intro = AudioSegment.from_mp3("intro.mp3")
+    for marker in SOUND_MARKERS:
+        clean_text = clean_text.replace(marker, "")
 
-    speech = AudioSegment.from_mp3(speech_file)
+    communicate = edge_tts.Communicate(clean_text, VOICE)
+    await communicate.save(clean_speech_file)
 
-    # Lower intro volume
-    intro = intro - 12
+    speech = AudioSegment.from_mp3(clean_speech_file)
 
-    # Add weather ambience
+    final_audio = AudioSegment.silent(duration=500)
+
+    # Intro plays in full first
+    if os.path.exists("intro.mp3"):
+        intro = AudioSegment.from_mp3("intro.mp3") - 3
+        final_audio += intro
+
+    # Weather ambience under first part of voice only
     weather_sound_file = get_weather_sound(CURRENT_CONDITION)
-    weather_sound = AudioSegment.from_mp3(weather_sound_file) - 18
 
-    intro = intro.overlay(weather_sound)
+    if os.path.exists(weather_sound_file):
+        weather = AudioSegment.from_mp3(weather_sound_file) - 22
 
-    # Friday dance party music
-    if CURRENT_IS_FRIDAY:
-        friday_music = AudioSegment.from_mp3("friday.mp3") - 10
+        # Make weather ambience last up to 12 seconds
+        target_duration = min(len(speech), 12000)
 
-        intro = intro.append(friday_music, crossfade=500)
+        while len(weather) < target_duration:
+            weather += weather
 
-    # Overlay speech
-    overlay = intro.overlay(speech)
+        weather = weather[:target_duration]
 
-    combined = overlay + speech[len(intro):]
+        speech_start = speech[:target_duration].overlay(weather)
+        speech_rest = speech[target_duration:]
 
-    combined.export(final_file, format="mp3")
+        speech = speech_start + speech_rest
+
+    final_audio += speech
+
+    # Add Friday music at the end for now, clean and reliable
+    # Next step can be precise mid-script placement.
+    if CURRENT_IS_FRIDAY and os.path.exists("friday.mp3"):
+        friday_music = AudioSegment.from_mp3("friday.mp3") - 4
+        final_audio += AudioSegment.silent(duration=400)
+        final_audio += friday_music
+
+    if os.path.exists("outro.mp3"):
+        outro = AudioSegment.from_mp3("outro.mp3") - 6
+        final_audio += AudioSegment.silent(duration=300)
+        final_audio += outro
+
+    final_audio.export(final_file, format="mp3")
 
 def make_rss(script):
     now = datetime.now(ZoneInfo("Australia/Melbourne"))
