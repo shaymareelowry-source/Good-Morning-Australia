@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Saturday, the 23 May.
+Today is Sunday, the 24 May.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 8 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 15 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 51 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
 
 
@@ -26,17 +26,17 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is M.
+Today’s letter is N.
 
-Can you think of something that starts with the letter M?
+Can you think of something that starts with the letter N?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 3.
+Today’s number is 4.
 
-Can you clap 3 times?
+Can you clap 4 times?
 
 . . . . . . . . .
 
@@ -52,23 +52,23 @@ Koalas sleep for many hours every day.
 
 AFL update!
 
-Fremantle Dockers beat St Kilda Saints by 30 points.
+Carlton Blues beat Port Adelaide Power by 34 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
