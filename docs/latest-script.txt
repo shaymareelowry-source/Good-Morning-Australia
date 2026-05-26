@@ -42,11 +42,11 @@ Can you clap 7 times?
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
