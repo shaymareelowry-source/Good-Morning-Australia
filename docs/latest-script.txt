@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Wednesday, the 27 May.
+Today is Thursday, the 28 May.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 11 degrees and a top of 18 degrees.
+In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 18 degrees.
 
-There is about a 75 percent chance of rain.
+There is about a 5 percent chance of rain.
 
-You might need a raincoat today.
+It sounds like a good day for comfy clothes.
 
 
 
@@ -26,49 +26,49 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is Q.
+Today’s letter is R.
 
-Can you think of something that starts with the letter Q?
+Can you think of something that starts with the letter R?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 7.
+Today’s number is 8.
 
-Can you clap 7 times?
+Can you clap 8 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kangaroo.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Kangaroos cannot walk backwards very well.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
 AFL update!
 
-Western Bulldogs beat Melbourne Demons by 3 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -88,6 +88,6 @@ Have a kind and wonderful day.
 
 . . . . . . . . .
 
-
+Tomorrow you have Camping in Nagambie.
 
 See you tomorrow!
