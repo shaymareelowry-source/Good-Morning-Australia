@@ -1,44 +1,42 @@
-Good morning Walkers!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 29 May.
+Today is Saturday, the 30 May.
 
 Wake up everyone, it’s time to start the day.
 
 . . . . . . . . .
 
-Today you have Camping in Nagambie.
+Today looks like a nice calm day.
 
 . . . . . . . . .
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 8 degrees and a top of 14 degrees.
 
-There is about a 3 percent chance of rain.
+There is about a 100 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is S.
+Today’s letter is T.
 
-Can you think of something that starts with the letter S?
+Can you think of something that starts with the letter T?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 9.
+Today’s number is 10.
 
-Can you clap 9 times?
+Can you clap 10 times?
 
 . . . . . . . . .
 
@@ -54,23 +52,23 @@ Wombats do cube-shaped poos to stop them rolling away.
 
 AFL update!
 
-Hawthorn Hawks beat St Kilda Saints by 52 points.
+Carlton Blues beat Geelong Cats by 4 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
