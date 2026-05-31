@@ -2,7 +2,7 @@ Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Sunday, the 31 May.
+Today is Monday, the 1 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 13 degrees.
+In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 12 degrees.
 
-There is about a 15 percent chance of rain.
+There is about a 100 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
 
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is U.
+Today’s letter is V.
 
-Can you think of something that starts with the letter U?
+Can you think of something that starts with the letter V?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 11.
+Today’s number is 12.
 
-Can you clap 11 times?
+Can you clap 12 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the koala.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Koalas sleep for many hours every day.
 
 [AFL_SOUND]
 
 AFL update!
 
-Western Bulldogs beat Collingwood Magpies by 4 points.
+West Coast Eagles beat Essendon Bombers by 30 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
