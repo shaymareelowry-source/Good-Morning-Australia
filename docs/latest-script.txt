@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Wednesday, the 3 June.
+Today is Thursday, the 4 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 8 degrees and a top of 13 degrees.
+In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 12 degrees.
 
-There is about a 51 percent chance of rain.
+There is about a 100 percent chance of rain.
 
 You might need a raincoat today.
 
@@ -26,49 +26,49 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is X.
+Today’s letter is Y.
 
-Can you think of something that starts with the letter X?
+Can you think of something that starts with the letter Y?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 14.
+Today’s number is 15.
 
-Can you clap 14 times?
+Can you clap 15 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-West Coast Eagles beat Essendon Bombers by 30 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
