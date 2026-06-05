@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Friday, the 5 June.
+Today is Saturday, the 6 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,63 +14,61 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 12 degrees.
+In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 15 degrees.
 
 There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is Z.
+Today’s letter is A.
 
-Can you think of something that starts with the letter Z?
+Can you think of something that starts with the letter A?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 16.
+Today’s number is 17.
 
-Can you clap 16 times?
+Can you clap 17 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
 AFL update!
 
-Adelaide Crows beat Geelong Cats by 1 points.
+Western Bulldogs beat Hawthorn Hawks by 6 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
