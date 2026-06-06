@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Saturday, the 6 June.
+Today is Sunday, the 7 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 15 degrees.
+In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 14 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is A.
+Today’s letter is B.
 
-Can you think of something that starts with the letter A?
+Can you think of something that starts with the letter B?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 17.
+Today’s number is 18.
 
-Can you clap 17 times?
+Can you clap 18 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
 AFL update!
 
-Western Bulldogs beat Hawthorn Hawks by 6 points.
+Port Adelaide Power beat West Coast Eagles by 6 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
