@@ -1,8 +1,8 @@
-Good morning Walkers!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Sunday, the 7 June.
+Today is Monday, the 8 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 14 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 13 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 4 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is B.
+Today’s letter is C.
 
-Can you think of something that starts with the letter B?
+Can you think of something that starts with the letter C?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 18.
+Today’s number is 19.
 
-Can you clap 18 times?
+Can you clap 19 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-Port Adelaide Power beat West Coast Eagles by 6 points.
+Carlton Blues beat Essendon Bombers by 5 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
