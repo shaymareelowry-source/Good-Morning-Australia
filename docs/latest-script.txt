@@ -2,7 +2,7 @@ Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 8 June.
+Today is Tuesday, the 9 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 13 degrees.
+In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 15 degrees.
 
-There is about a 4 percent chance of rain.
+There is about a 69 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
 
 
@@ -26,17 +26,17 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is C.
+Today’s letter is D.
 
-Can you think of something that starts with the letter C?
+Can you think of something that starts with the letter D?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 19.
+Today’s number is 20.
 
-Can you clap 19 times?
+Can you clap 20 times?
 
 . . . . . . . . .
 
@@ -52,17 +52,17 @@ Platypuses close their eyes and ears underwater.
 
 AFL update!
 
-Carlton Blues beat Essendon Bombers by 5 points.
+Melbourne Demons beat Collingwood Magpies by 8 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
