@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Wednesday, the 10 June.
+Today is Thursday, the 11 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 10 degrees and a top of 15 degrees.
+In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 15 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 13 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is E.
+Today’s letter is F.
 
-Can you think of something that starts with the letter E?
+Can you think of something that starts with the letter F?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 1.
+Today’s number is 2.
 
-Can you clap 1 times?
+Can you clap 2 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ Melbourne Demons beat Collingwood Magpies by 8 points.
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
