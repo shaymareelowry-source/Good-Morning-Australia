@@ -2,7 +2,7 @@ Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 12 June.
+Today is Saturday, the 13 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,57 +14,55 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 17 degrees.
+In Bendigo today, it will be rainy, with a low of 11 degrees and a top of 16 degrees.
 
-There is about a 43 percent chance of rain.
+There is about a 100 percent chance of rain.
 
-It sounds like a good day for comfy clothes.
+You might need a raincoat today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is G.
+Today’s letter is H.
 
-Can you think of something that starts with the letter G?
+Can you think of something that starts with the letter H?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 3.
+Today’s number is 4.
 
-Can you clap 3 times?
+Can you clap 4 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
 AFL update!
 
-Adelaide Crows beat Western Bulldogs by 57 points.
+Geelong Cats beat Gold Coast Suns by 45 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
@@ -84,12 +82,12 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
 . . . . . . . . .
 
-
+Tomorrow you have Rory's First Birthday.
 
 See you tomorrow!
