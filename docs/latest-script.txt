@@ -2,23 +2,23 @@ Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Saturday, the 13 June.
+Today is Sunday, the 14 June.
 
 Wake up everyone, it’s time to start the day.
 
 . . . . . . . . .
 
-Today looks like a nice calm day.
+Oooh! Today is a very special day! Rory's First Birthday!
 
 . . . . . . . . .
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 11 degrees and a top of 16 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 14 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 32 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,33 +26,33 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is H.
+Today’s letter is I.
 
-Can you think of something that starts with the letter H?
+Can you think of something that starts with the letter I?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 4.
+Today’s number is 5.
 
-Can you clap 4 times?
+Can you clap 5 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
 AFL update!
 
-Geelong Cats beat Gold Coast Suns by 45 points.
+Sydney Swans beat Port Adelaide Power by 3 points.
 
 [_SOUND]
 
@@ -68,7 +68,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,12 +82,12 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
 . . . . . . . . .
 
-Tomorrow you have Rory's First Birthday.
+
 
 See you tomorrow!
