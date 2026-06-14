@@ -1,22 +1,22 @@
-Wake up Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Sunday, the 14 June.
+Today is Monday, the 15 June.
 
 Wake up everyone, it’s time to start the day.
 
 . . . . . . . . .
 
-Oooh! Today is a very special day! Rory's First Birthday!
+Today looks like a nice calm day.
 
 . . . . . . . . .
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 5 degrees and a top of 15 degrees.
 
-There is about a 32 percent chance of rain.
+There is about a 8 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,33 +26,33 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is I.
+Today’s letter is J.
 
-Can you think of something that starts with the letter I?
+Can you think of something that starts with the letter J?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 5.
+Today’s number is 6.
 
-Can you clap 5 times?
+Can you clap 6 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-Sydney Swans beat Port Adelaide Power by 3 points.
+St Kilda Saints beat Greater Western Sydney Giants by 8 points.
 
 [_SOUND]
 
@@ -68,7 +68,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
