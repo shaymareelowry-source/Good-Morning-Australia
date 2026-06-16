@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Monday, the 15 June.
+Today is Tuesday, the 16 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 5 degrees and a top of 15 degrees.
+In Bendigo today, it will be rainy, with a low of 12 degrees and a top of 17 degrees.
 
-There is about a 8 percent chance of rain.
+There is about a 100 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
 
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is J.
+Today’s letter is K.
 
-Can you think of something that starts with the letter J?
+Can you think of something that starts with the letter K?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 6.
+Today’s number is 7.
 
-Can you clap 6 times?
+Can you clap 7 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
@@ -58,11 +58,11 @@ St Kilda Saints beat Greater Western Sydney Giants by 8 points.
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
