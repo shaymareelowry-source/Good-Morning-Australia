@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Thursday, the 18 June.
+Today is Friday, the 19 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,45 +14,47 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be stormy, with a low of 10 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 8 degrees and a top of 12 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 94 percent chance of rain.
 
 You might need a raincoat today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is M.
+Today’s letter is N.
 
-Can you think of something that starts with the letter M?
+Can you think of something that starts with the letter N?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 9.
+Today’s number is 10.
 
-Can you clap 9 times?
+Can you clap 10 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Fremantle Dockers beat Geelong Cats by 9 points.
 
 [_SOUND]
 
@@ -68,7 +70,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
