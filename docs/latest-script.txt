@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Sunday, the 21 June.
+Today is Monday, the 22 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 14 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 13 degrees.
 
-There is about a 35 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is P.
+Today’s letter is Q.
 
-Can you think of something that starts with the letter P?
+Can you think of something that starts with the letter Q?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 12.
+Today’s number is 13.
 
-Can you clap 12 times?
+Can you clap 13 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
 AFL update!
 
-Collingwood Magpies beat Port Adelaide Power by 26 points.
+Western Bulldogs beat St Kilda Saints by 22 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
