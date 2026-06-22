@@ -1,8 +1,8 @@
-Good morning Walkers!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 22 June.
+Today is Tuesday, the 23 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 13 degrees.
+In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 12 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is Q.
+Today’s letter is R.
 
-Can you think of something that starts with the letter Q?
+Can you think of something that starts with the letter R?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 13.
+Today’s number is 14.
 
-Can you clap 13 times?
+Can you clap 14 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ Western Bulldogs beat St Kilda Saints by 22 points.
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
