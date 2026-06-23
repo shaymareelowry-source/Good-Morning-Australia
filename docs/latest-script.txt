@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Tuesday, the 23 June.
+Today is Wednesday, the 24 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 12 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 14 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is R.
+Today’s letter is S.
 
-Can you think of something that starts with the letter R?
+Can you think of something that starts with the letter S?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 14.
+Today’s number is 15.
 
-Can you clap 14 times?
+Can you clap 15 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
