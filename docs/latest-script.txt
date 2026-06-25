@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Thursday, the 25 June.
+Today is Friday, the 26 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,61 +14,63 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 15 degrees.
+In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 13 degrees.
 
 There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is T.
+Today’s letter is U.
 
-Can you think of something that starts with the letter T?
+Can you think of something that starts with the letter U?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 16.
+Today’s number is 17.
 
-Can you clap 16 times?
+Can you clap 17 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Brisbane Lions beat Sydney Swans by 43 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
