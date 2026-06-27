@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Saturday, the 27 June.
+Today is Sunday, the 28 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 5 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 13 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 24 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,17 +26,17 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is V.
+Today’s letter is W.
 
-Can you think of something that starts with the letter V?
+Can you think of something that starts with the letter W?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 18.
+Today’s number is 19.
 
-Can you clap 18 times?
+Can you clap 19 times?
 
 . . . . . . . . .
 
@@ -52,23 +52,23 @@ Platypuses close their eyes and ears underwater.
 
 AFL update!
 
-Hawthorn Hawks beat Greater Western Sydney Giants by 14 points.
+Port Adelaide Power beat Adelaide Crows by 26 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
