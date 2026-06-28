@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Sunday, the 28 June.
+Today is Monday, the 29 June.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 13 degrees.
+In Bendigo today, it will be rainy, with a low of 8 degrees and a top of 12 degrees.
 
-There is about a 24 percent chance of rain.
+There is about a 94 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
 
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is W.
+Today’s letter is X.
 
-Can you think of something that starts with the letter W?
+Can you think of something that starts with the letter X?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 19.
+Today’s number is 20.
 
-Can you clap 19 times?
+Can you clap 20 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
 AFL update!
 
-Port Adelaide Power beat Adelaide Crows by 26 points.
+Fremantle Dockers beat Gold Coast Suns by 51 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
