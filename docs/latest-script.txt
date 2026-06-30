@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Tuesday, the 30 June.
+Today is Wednesday, the 1 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be stormy, with a low of 10 degrees and a top of 13 degrees.
+In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 14 degrees.
 
 There is about a 100 percent chance of rain.
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is Y.
+Today’s letter is Z.
 
-Can you think of something that starts with the letter Y?
+Can you think of something that starts with the letter Z?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 1.
+Today’s number is 2.
 
-Can you clap 1 times?
+Can you clap 2 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
