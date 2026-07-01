@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Wednesday, the 1 July.
+Today is Thursday, the 2 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 11 degrees.
 
 There is about a 100 percent chance of rain.
 
@@ -26,49 +26,49 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is Z.
+Today’s letter is A.
 
-Can you think of something that starts with the letter Z?
+Can you think of something that starts with the letter A?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 2.
+Today’s number is 3.
 
-Can you clap 2 times?
+Can you clap 3 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the emu.
+Today’s Australian animal is the koala.
 
 Did you know?
 
-Emus can run very fast, but they cannot fly.
+Koalas sleep for many hours every day.
 
 [AFL_SOUND]
 
 AFL update!
 
-Fremantle Dockers beat Gold Coast Suns by 51 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
