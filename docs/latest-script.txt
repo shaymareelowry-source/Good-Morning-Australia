@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Thursday, the 2 July.
+Today is Friday, the 3 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,61 +14,63 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 11 degrees.
+In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 13 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 55 percent chance of rain.
 
 You might need a raincoat today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is A.
+Today’s letter is B.
 
-Can you think of something that starts with the letter A?
+Can you think of something that starts with the letter B?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 3.
+Today’s number is 4.
 
-Can you clap 3 times?
+Can you clap 4 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Brisbane Lions beat Geelong Cats by 22 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -88,6 +90,6 @@ Have a kind and wonderful day.
 
 . . . . . . . . .
 
-
+Tomorrow you have Disney on Ice.
 
 See you tomorrow!
