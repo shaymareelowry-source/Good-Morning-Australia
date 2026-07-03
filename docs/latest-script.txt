@@ -1,76 +1,74 @@
-Wakey Wakey breakfast crew!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 3 July.
+Today is Saturday, the 4 July.
 
 Wake up everyone, it’s time to start the day.
 
 . . . . . . . . .
 
-Today looks like a nice calm day.
+Today you have Disney on Ice.
 
 . . . . . . . . .
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 13 degrees.
+In Bendigo today, it will be rainy, with a low of 5 degrees and a top of 12 degrees.
 
-There is about a 55 percent chance of rain.
+There is about a 4 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is B.
+Today’s letter is C.
 
-Can you think of something that starts with the letter B?
+Can you think of something that starts with the letter C?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 4.
+Today’s number is 5.
 
-Can you clap 4 times?
+Can you clap 5 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
 AFL update!
 
-Brisbane Lions beat Geelong Cats by 22 points.
+Adelaide Crows beat West Coast Eagles by 25 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,12 +82,12 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
 . . . . . . . . .
 
-Tomorrow you have Disney on Ice.
+
 
 See you tomorrow!
