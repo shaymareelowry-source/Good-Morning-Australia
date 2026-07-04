@@ -1,22 +1,22 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Saturday, the 4 July.
+Today is Sunday, the 5 July.
 
 Wake up everyone, it’s time to start the day.
 
 . . . . . . . . .
 
-Today you have Disney on Ice.
+Today looks like a nice calm day.
 
 . . . . . . . . .
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 5 degrees and a top of 12 degrees.
+In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 12 degrees.
 
-There is about a 4 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,43 +26,43 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is C.
+Today’s letter is D.
 
-Can you think of something that starts with the letter C?
+Can you think of something that starts with the letter D?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 5.
+Today’s number is 6.
 
-Can you clap 5 times?
+Can you clap 6 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
 AFL update!
 
-Adelaide Crows beat West Coast Eagles by 25 points.
+Carlton Blues beat Richmond Tigers by 2 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
