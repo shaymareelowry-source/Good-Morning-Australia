@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Wednesday, the 8 July.
+Today is Thursday, the 9 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 2 degrees and a top of 13 degrees.
+In Bendigo today, it will be cloudy, with a low of 3 degrees and a top of 13 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,33 +26,33 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is G.
+Today’s letter is H.
 
-Can you think of something that starts with the letter G?
+Can you think of something that starts with the letter H?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 9.
+Today’s number is 10.
 
-Can you clap 9 times?
+Can you clap 10 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-Port Adelaide Power beat North Melbourne Kangaroos by 21 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
@@ -68,7 +68,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
