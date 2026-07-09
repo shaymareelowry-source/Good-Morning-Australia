@@ -2,7 +2,7 @@ Good morning Walkers!
 
 Hello everyone!
 
-Today is Thursday, the 9 July.
+Today is Friday, the 10 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,61 +14,63 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 3 degrees and a top of 13 degrees.
+In Bendigo today, it will be cloudy, with a low of 3 degrees and a top of 12 degrees.
 
 There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is H.
+Today’s letter is I.
 
-Can you think of something that starts with the letter H?
+Can you think of something that starts with the letter I?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 10.
+Today’s number is 11.
 
-Can you clap 10 times?
+Can you clap 11 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Fremantle Dockers beat Sydney Swans by 38 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
