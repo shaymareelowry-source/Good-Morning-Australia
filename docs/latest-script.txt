@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Friday, the 10 July.
+Today is Saturday, the 11 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,63 +14,61 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 3 degrees and a top of 12 degrees.
+In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 12 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 100 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is I.
+Today’s letter is J.
 
-Can you think of something that starts with the letter I?
+Can you think of something that starts with the letter J?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 11.
+Today’s number is 12.
 
-Can you clap 11 times?
+Can you clap 12 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
 AFL update!
 
-Fremantle Dockers beat Sydney Swans by 38 points.
+Collingwood Magpies beat North Melbourne Kangaroos by 4 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
