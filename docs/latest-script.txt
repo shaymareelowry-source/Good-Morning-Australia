@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Saturday, the 11 July.
+Today is Sunday, the 12 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 12 degrees.
+In Bendigo today, it will be rainy, with a low of 5 degrees and a top of 11 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 94 percent chance of rain.
 
 You might need a raincoat today.
 
@@ -26,49 +26,49 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is J.
+Today’s letter is K.
 
-Can you think of something that starts with the letter J?
+Can you think of something that starts with the letter K?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 12.
+Today’s number is 13.
 
-Can you clap 12 times?
+Can you clap 13 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kangaroo.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Kangaroos cannot walk backwards very well.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-Collingwood Magpies beat North Melbourne Kangaroos by 4 points.
+Adelaide Crows beat Gold Coast Suns by 79 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
