@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Sunday, the 12 July.
+Today is Monday, the 13 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 5 degrees and a top of 11 degrees.
+In Bendigo today, it will be rainy, with a low of 8 degrees and a top of 11 degrees.
 
-There is about a 94 percent chance of rain.
+There is about a 84 percent chance of rain.
 
 You might need a raincoat today.
 
@@ -26,33 +26,33 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is K.
+Today’s letter is L.
 
-Can you think of something that starts with the letter K?
+Can you think of something that starts with the letter L?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 13.
+Today’s number is 14.
 
-Can you clap 13 times?
+Can you clap 14 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
 AFL update!
 
-Adelaide Crows beat Gold Coast Suns by 79 points.
+Brisbane Lions beat Essendon Bombers by 90 points.
 
 [_SOUND]
 
@@ -68,7 +68,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
