@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Tuesday, the 14 July.
+Today is Wednesday, the 15 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 14 degrees.
+In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 13 degrees.
 
-There is about a 59 percent chance of rain.
+There is about a 0 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is M.
+Today’s letter is N.
 
-Can you think of something that starts with the letter M?
+Can you think of something that starts with the letter N?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 15.
+Today’s number is 16.
 
-Can you clap 15 times?
+Can you clap 16 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
@@ -58,11 +58,11 @@ Brisbane Lions beat Essendon Bombers by 90 points.
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
