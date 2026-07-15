@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Wednesday, the 15 July.
+Today is Thursday, the 16 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 13 degrees.
+In Bendigo today, it will be cloudy, with a low of 8 degrees and a top of 15 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 4 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,33 +26,33 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is N.
+Today’s letter is O.
 
-Can you think of something that starts with the letter N?
+Can you think of something that starts with the letter O?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 16.
+Today’s number is 17.
 
-Can you clap 16 times?
+Can you clap 17 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
 AFL update!
 
-Brisbane Lions beat Essendon Bombers by 90 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
