@@ -2,7 +2,7 @@ Good morning Walkers!
 
 Hello everyone!
 
-Today is Thursday, the 16 July.
+Today is Friday, the 17 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,61 +14,63 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 8 degrees and a top of 15 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 4 degrees and a top of 14 degrees.
 
-There is about a 4 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is O.
+Today’s letter is P.
 
-Can you think of something that starts with the letter O?
+Can you think of something that starts with the letter P?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 17.
+Today’s number is 18.
 
-Can you clap 17 times?
+Can you clap 18 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kangaroo.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Kangaroos cannot walk backwards very well.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Geelong Cats beat St Kilda Saints by 27 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
