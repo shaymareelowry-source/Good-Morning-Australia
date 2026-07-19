@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Friday, the 17 July.
+Today is Monday, the 20 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,31 +14,29 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 4 degrees and a top of 14 degrees.
+In Bendigo today, it will be cloudy, with a low of 2 degrees and a top of 12 degrees.
 
 There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is P.
+Today’s letter is S.
 
-Can you think of something that starts with the letter P?
+Can you think of something that starts with the letter S?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 18.
+Today’s number is 1.
 
-Can you clap 18 times?
+Can you clap 1 times?
 
 . . . . . . . . .
 
@@ -54,17 +52,17 @@ Echidnas use their long sticky tongues to catch ants.
 
 AFL update!
 
-Geelong Cats beat St Kilda Saints by 27 points.
+Essendon Bombers beat Greater Western Sydney Giants by 3 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
