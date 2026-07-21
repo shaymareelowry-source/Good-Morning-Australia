@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Tuesday, the 21 July.
+Today is Wednesday, the 22 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 12 degrees.
+In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 14 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 25 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is T.
+Today’s letter is U.
 
-Can you think of something that starts with the letter T?
+Can you think of something that starts with the letter U?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 2.
+Today’s number is 3.
 
-Can you clap 2 times?
+Can you clap 3 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ Essendon Bombers beat Greater Western Sydney Giants by 3 points.
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
