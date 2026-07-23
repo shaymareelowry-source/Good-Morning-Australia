@@ -2,7 +2,7 @@ Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Thursday, the 23 July.
+Today is Friday, the 24 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,61 +14,63 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 10 degrees.
+In Bendigo today, it will be cloudy, with a low of 3 degrees and a top of 10 degrees.
 
-There is about a 4 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is V.
+Today’s letter is W.
 
-Can you think of something that starts with the letter V?
+Can you think of something that starts with the letter W?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 4.
+Today’s number is 5.
 
-Can you clap 4 times?
+Can you clap 5 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Collingwood Magpies beat Adelaide Crows by 34 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
