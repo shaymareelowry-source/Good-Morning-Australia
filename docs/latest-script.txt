@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Friday, the 24 July.
+Today is Saturday, the 25 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,47 +14,45 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 3 degrees and a top of 10 degrees.
+In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 13 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 36 percent chance of rain.
 
 You might need a warm jumper today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is W.
+Today’s letter is X.
 
-Can you think of something that starts with the letter W?
+Can you think of something that starts with the letter X?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 5.
+Today’s number is 6.
 
-Can you clap 5 times?
+Can you clap 6 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
 AFL update!
 
-Collingwood Magpies beat Adelaide Crows by 34 points.
+Fremantle Dockers beat West Coast Eagles by 70 points.
 
 [_SOUND]
 
@@ -84,12 +82,12 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
 . . . . . . . . .
 
-
+Tomorrow you have Auskick.
 
 See you tomorrow!
