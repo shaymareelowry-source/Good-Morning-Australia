@@ -2,21 +2,21 @@ Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Saturday, the 25 July.
+Today is Sunday, the 26 July.
 
 Wake up everyone, it’s time to start the day.
 
 . . . . . . . . .
 
-Today looks like a nice calm day.
+Today you have Auskick.
 
 . . . . . . . . .
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 13 degrees.
+In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 13 degrees.
 
-There is about a 36 percent chance of rain.
+There is about a 4 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,43 +26,43 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is X.
+Today’s letter is Y.
 
-Can you think of something that starts with the letter X?
+Can you think of something that starts with the letter Y?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 6.
+Today’s number is 7.
 
-Can you clap 6 times?
+Can you clap 7 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-Fremantle Dockers beat West Coast Eagles by 70 points.
+Western Bulldogs beat Richmond Tigers by 57 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
@@ -82,12 +82,12 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
 . . . . . . . . .
 
-Tomorrow you have Auskick.
+
 
 See you tomorrow!
