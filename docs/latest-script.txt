@@ -2,21 +2,21 @@ Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Sunday, the 26 July.
+Today is Monday, the 27 July.
 
 Wake up everyone, it’s time to start the day.
 
 . . . . . . . . .
 
-Today you have Auskick.
+Today looks like a nice calm day.
 
 . . . . . . . . .
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 13 degrees.
+In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 11 degrees.
 
-There is about a 4 percent chance of rain.
+There is about a 47 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is Y.
+Today’s letter is Z.
 
-Can you think of something that starts with the letter Y?
+Can you think of something that starts with the letter Z?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 7.
+Today’s number is 8.
 
-Can you clap 7 times?
+Can you clap 8 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the koala.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Koalas sleep for many hours every day.
 
 [AFL_SOUND]
 
 AFL update!
 
-Western Bulldogs beat Richmond Tigers by 57 points.
+St Kilda Saints beat North Melbourne Kangaroos by 31 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
