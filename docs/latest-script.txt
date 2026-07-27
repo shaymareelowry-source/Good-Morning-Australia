@@ -2,7 +2,7 @@ Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Monday, the 27 July.
+Today is Tuesday, the 28 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 11 degrees.
+In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 13 degrees.
 
-There is about a 47 percent chance of rain.
+There is about a 100 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
 
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is Z.
+Today’s letter is A.
 
-Can you think of something that starts with the letter Z?
+Can you think of something that starts with the letter A?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 8.
+Today’s number is 9.
 
-Can you clap 8 times?
+Can you clap 9 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ St Kilda Saints beat North Melbourne Kangaroos by 31 points.
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
