@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Tuesday, the 28 July.
+Today is Wednesday, the 29 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 13 degrees.
+In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 11 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 49 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is A.
+Today’s letter is B.
 
-Can you think of something that starts with the letter A?
+Can you think of something that starts with the letter B?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 9.
+Today’s number is 10.
 
-Can you clap 9 times?
+Can you clap 10 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -58,11 +58,11 @@ St Kilda Saints beat North Melbourne Kangaroos by 31 points.
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
