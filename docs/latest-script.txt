@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Wednesday, the 29 July.
+Today is Thursday, the 30 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 11 degrees.
+In Bendigo today, it will be cloudy, with a low of 3 degrees and a top of 11 degrees.
 
-There is about a 49 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,43 +26,43 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is B.
+Today’s letter is C.
 
-Can you think of something that starts with the letter B?
+Can you think of something that starts with the letter C?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 10.
+Today’s number is 11.
 
-Can you clap 10 times?
+Can you clap 11 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the emu.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Emus can run very fast, but they cannot fly.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
 AFL update!
 
-St Kilda Saints beat North Melbourne Kangaroos by 31 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
