@@ -2,7 +2,7 @@ Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Thursday, the 30 July.
+Today is Friday, the 31 July.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,45 +14,47 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 3 degrees and a top of 11 degrees.
+In Bendigo today, it will be cloudy, with a low of 3 degrees and a top of 14 degrees.
 
 There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is C.
+Today’s letter is D.
 
-Can you think of something that starts with the letter C?
+Can you think of something that starts with the letter D?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 11.
+Today’s number is 12.
 
-Can you clap 11 times?
+Can you clap 12 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Geelong Cats beat Collingwood Magpies by 25 points.
 
 [_SOUND]
 
@@ -68,7 +70,7 @@ Thunderwear!
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
