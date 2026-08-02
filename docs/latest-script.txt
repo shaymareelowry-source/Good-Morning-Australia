@@ -1,8 +1,8 @@
-Good morning Walkers!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Sunday, the 2 August.
+Today is Monday, the 3 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 3 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 12 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 25 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is F.
+Today’s letter is G.
 
-Can you think of something that starts with the letter F?
+Can you think of something that starts with the letter G?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 14.
+Today’s number is 15.
 
-Can you clap 14 times?
+Can you clap 15 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-Carlton Blues beat Brisbane Lions by 76 points.
+Adelaide Crows beat Essendon Bombers by 72 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
