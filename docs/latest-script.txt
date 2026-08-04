@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Tuesday, the 4 August.
+Today is Wednesday, the 5 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 3 degrees and a top of 11 degrees.
+In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 12 degrees.
 
-There is about a 73 percent chance of rain.
+There is about a 6 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is H.
+Today’s letter is I.
 
-Can you think of something that starts with the letter H?
+Can you think of something that starts with the letter I?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 16.
+Today’s number is 17.
 
-Can you clap 16 times?
+Can you clap 17 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
