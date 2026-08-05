@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Wednesday, the 5 August.
+Today is Thursday, the 6 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 12 degrees.
+In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 12 degrees.
 
-There is about a 6 percent chance of rain.
+There is about a 8 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,33 +26,33 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is I.
+Today’s letter is J.
 
-Can you think of something that starts with the letter I?
+Can you think of something that starts with the letter J?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 17.
+Today’s number is 18.
 
-Can you clap 17 times?
+Can you clap 18 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the emu.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Emus can run very fast, but they cannot fly.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
 AFL update!
 
-Adelaide Crows beat Essendon Bombers by 72 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
@@ -68,7 +68,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
