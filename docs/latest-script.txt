@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 7 August.
+Today is Saturday, the 8 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,63 +14,61 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 14 degrees.
 
-There is about a 12 percent chance of rain.
+There is about a 51 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is K.
+Today’s letter is L.
 
-Can you think of something that starts with the letter K?
+Can you think of something that starts with the letter L?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 19.
+Today’s number is 20.
 
-Can you clap 19 times?
+Can you clap 20 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the koala.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Koalas sleep for many hours every day.
 
 [AFL_SOUND]
 
 AFL update!
 
-North Melbourne Kangaroos beat Western Bulldogs by 23 points.
+Brisbane Lions beat Hawthorn Hawks by 67 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
