@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Sunday, the 9 August.
+Today is Monday, the 10 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 11 degrees.
+In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 14 degrees.
 
 There is about a 100 percent chance of rain.
 
@@ -26,49 +26,49 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is M.
+Today’s letter is N.
 
-Can you think of something that starts with the letter M?
+Can you think of something that starts with the letter N?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 1.
+Today’s number is 2.
 
-Can you clap 1 times?
+Can you clap 2 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
 AFL update!
 
-Adelaide Crows beat Richmond Tigers by 9 points.
+Carlton Blues beat St Kilda Saints by 44 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
