@@ -1,8 +1,8 @@
-Good morning Walkers!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 10 August.
+Today is Tuesday, the 11 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 8 degrees and a top of 11 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 43 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is N.
+Today’s letter is O.
 
-Can you think of something that starts with the letter N?
+Can you think of something that starts with the letter O?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 2.
+Today’s number is 3.
 
-Can you clap 2 times?
+Can you clap 3 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kangaroo.
+Today’s Australian animal is the koala.
 
 Did you know?
 
-Kangaroos cannot walk backwards very well.
+Koalas sleep for many hours every day.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
