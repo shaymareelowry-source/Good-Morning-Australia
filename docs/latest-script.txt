@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Thursday, the 13 August.
+Today is Friday, the 14 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,39 +14,41 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 14 degrees.
+In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 14 degrees.
 
-There is about a 18 percent chance of rain.
+There is about a 2 percent chance of rain.
 
 You might need a warm jumper today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is Q.
+Today’s letter is R.
 
-Can you think of something that starts with the letter Q?
+Can you think of something that starts with the letter R?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 5.
+Today’s number is 6.
 
-Can you clap 5 times?
+Can you clap 6 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
@@ -58,17 +60,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
