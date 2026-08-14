@@ -2,7 +2,7 @@ Good morning Walkers!
 
 Hello everyone!
 
-Today is Friday, the 14 August.
+Today is Saturday, the 15 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,47 +14,45 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 14 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 15 degrees.
 
-There is about a 2 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is R.
+Today’s letter is S.
 
-Can you think of something that starts with the letter R?
+Can you think of something that starts with the letter S?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 6.
+Today’s number is 7.
 
-Can you clap 6 times?
+Can you clap 7 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Fremantle Dockers beat Adelaide Crows by 24 points.
 
 [_SOUND]
 
@@ -70,7 +68,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
