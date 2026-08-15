@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Saturday, the 15 August.
+Today is Sunday, the 16 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 15 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 16 degrees.
 
 There is about a 0 percent chance of rain.
 
-You might need a warm jumper today.
+It sounds like a good day for comfy clothes.
 
 
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is S.
+Today’s letter is T.
 
-Can you think of something that starts with the letter S?
+Can you think of something that starts with the letter T?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 7.
+Today’s number is 8.
 
-Can you clap 7 times?
+Can you clap 8 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kangaroo.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Kangaroos cannot walk backwards very well.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
 AFL update!
 
-Fremantle Dockers beat Adelaide Crows by 24 points.
+Melbourne Demons beat Port Adelaide Power by 76 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
