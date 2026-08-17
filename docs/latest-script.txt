@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 17 August.
+Today is Tuesday, the 18 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 16 degrees.
+In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 16 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 88 percent chance of rain.
 
-It sounds like a good day for comfy clothes.
+You might need a raincoat today.
 
 
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is U.
+Today’s letter is V.
 
-Can you think of something that starts with the letter U?
+Can you think of something that starts with the letter V?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 9.
+Today’s number is 10.
 
-Can you clap 9 times?
+Can you clap 10 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kangaroo.
+Today’s Australian animal is the koala.
 
 Did you know?
 
-Kangaroos cannot walk backwards very well.
+Koalas sleep for many hours every day.
 
 [AFL_SOUND]
 
@@ -58,11 +58,11 @@ Sydney Swans beat Essendon Bombers by 36 points.
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
