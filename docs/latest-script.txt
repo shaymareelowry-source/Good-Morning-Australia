@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Tuesday, the 18 August.
+Today is Wednesday, the 19 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 16 degrees.
+In Bendigo today, it will be rainy, with a low of 10 degrees and a top of 13 degrees.
 
-There is about a 88 percent chance of rain.
+There is about a 100 percent chance of rain.
 
 You might need a raincoat today.
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is V.
+Today’s letter is W.
 
-Can you think of something that starts with the letter V?
+Can you think of something that starts with the letter W?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 10.
+Today’s number is 11.
 
-Can you clap 10 times?
+Can you clap 11 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ Because they always stand out!
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
