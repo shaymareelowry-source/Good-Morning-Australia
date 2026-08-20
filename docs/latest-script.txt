@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Thursday, the 20 August.
+Today is Friday, the 21 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,29 +14,31 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 8 degrees and a top of 15 degrees.
+In Bendigo today, it will be rainy, with a low of 5 degrees and a top of 12 degrees.
 
-There is about a 37 percent chance of rain.
+There is about a 27 percent chance of rain.
 
 You might need a warm jumper today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is X.
+Today’s letter is Y.
 
-Can you think of something that starts with the letter X?
+Can you think of something that starts with the letter Y?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 12.
+Today’s number is 13.
 
-Can you clap 12 times?
+Can you clap 13 times?
 
 . . . . . . . . .
 
@@ -52,7 +54,7 @@ Bilbies have huge ears to help them hear underground.
 
 AFL update!
 
-There were no AFL scores from last night.
+Gold Coast Suns beat St Kilda Saints by 23 points.
 
 [_SOUND]
 
@@ -68,7 +70,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
