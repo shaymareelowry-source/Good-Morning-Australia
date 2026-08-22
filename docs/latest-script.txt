@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Saturday, the 22 August.
+Today is Sunday, the 23 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 8 degrees and a top of 15 degrees.
+In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 15 degrees.
 
-There is about a 24 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,43 +26,43 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is Z.
+Today’s letter is A.
 
-Can you think of something that starts with the letter Z?
+Can you think of something that starts with the letter A?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 14.
+Today’s number is 15.
 
-Can you clap 14 times?
+Can you clap 15 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the koala.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Koalas sleep for many hours every day.
 
 [AFL_SOUND]
 
 AFL update!
 
-Brisbane Lions beat Collingwood Magpies by 63 points.
+Adelaide Crows beat Greater Western Sydney Giants by 56 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
