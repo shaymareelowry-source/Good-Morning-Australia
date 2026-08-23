@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Sunday, the 23 August.
+Today is Monday, the 24 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 15 degrees.
+In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 16 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 95 percent chance of rain.
 
-You might need a warm jumper today.
+You might need a raincoat today.
 
 
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is A.
+Today’s letter is B.
 
-Can you think of something that starts with the letter A?
+Can you think of something that starts with the letter B?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 15.
+Today’s number is 16.
 
-Can you clap 15 times?
+Can you clap 16 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
 AFL update!
 
-Adelaide Crows beat Greater Western Sydney Giants by 56 points.
+Hawthorn Hawks beat West Coast Eagles by 62 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
