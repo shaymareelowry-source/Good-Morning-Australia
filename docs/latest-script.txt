@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 24 August.
+Today is Tuesday, the 25 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 16 degrees.
+In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 17 degrees.
 
-There is about a 95 percent chance of rain.
+There is about a 100 percent chance of rain.
 
 You might need a raincoat today.
 
@@ -26,17 +26,17 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is B.
+Today’s letter is C.
 
-Can you think of something that starts with the letter B?
+Can you think of something that starts with the letter C?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 16.
+Today’s number is 17.
 
-Can you clap 16 times?
+Can you clap 17 times?
 
 . . . . . . . . .
 
@@ -58,17 +58,17 @@ Hawthorn Hawks beat West Coast Eagles by 62 points.
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
