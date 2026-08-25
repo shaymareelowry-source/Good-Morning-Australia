@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Tuesday, the 25 August.
+Today is Wednesday, the 26 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 17 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 15 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 2 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is C.
+Today’s letter is D.
 
-Can you think of something that starts with the letter C?
+Can you think of something that starts with the letter D?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 17.
+Today’s number is 18.
 
-Can you clap 17 times?
+Can you clap 18 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kangaroo.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Kangaroos cannot walk backwards very well.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ Hawthorn Hawks beat West Coast Eagles by 62 points.
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
