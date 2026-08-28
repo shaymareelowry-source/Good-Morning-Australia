@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Thursday, the 27 August.
+Today is Friday, the 28 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,39 +14,41 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 14 degrees.
+In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 16 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 2 percent chance of rain.
 
-You might need a warm jumper today.
+It sounds like a good day for comfy clothes.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is E.
+Today’s letter is F.
 
-Can you think of something that starts with the letter E?
+Can you think of something that starts with the letter F?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 19.
+Today’s number is 20.
 
-Can you clap 19 times?
+Can you clap 20 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -68,7 +70,7 @@ Because they always stand out!
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
