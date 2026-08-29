@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 28 August.
+Today is Saturday, the 29 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,31 +14,29 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 16 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 5 degrees and a top of 17 degrees.
 
-There is about a 2 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is F.
+Today’s letter is G.
 
-Can you think of something that starts with the letter F?
+Can you think of something that starts with the letter G?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 20.
+Today’s number is 1.
 
-Can you clap 20 times?
+Can you clap 1 times?
 
 . . . . . . . . .
 
@@ -54,7 +52,7 @@ Emus can run very fast, but they cannot fly.
 
 AFL update!
 
-There were no AFL scores from last night.
+Western Bulldogs beat Collingwood Magpies by 3 points.
 
 [_SOUND]
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
