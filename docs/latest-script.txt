@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Saturday, the 29 August.
+Today is Sunday, the 30 August.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 5 degrees and a top of 17 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 4 degrees and a top of 18 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,33 +26,33 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is G.
+Today’s letter is H.
 
-Can you think of something that starts with the letter G?
+Can you think of something that starts with the letter H?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 1.
+Today’s number is 2.
 
-Can you clap 1 times?
+Can you clap 2 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the emu.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Emus can run very fast, but they cannot fly.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-Western Bulldogs beat Collingwood Magpies by 3 points.
+Carlton Blues beat Melbourne Demons by 19 points.
 
 [_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
