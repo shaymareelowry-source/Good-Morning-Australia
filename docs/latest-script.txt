@@ -2,7 +2,7 @@ Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 31 August.
+Today is Tuesday, the 1 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 5 degrees and a top of 19 degrees.
+In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 19 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 53 percent chance of rain.
 
-It sounds like a good day for comfy clothes.
+You might need a raincoat today.
 
 
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is I.
+Today’s letter is J.
 
-Can you think of something that starts with the letter I?
+Can you think of something that starts with the letter J?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 3.
+Today’s number is 4.
 
-Can you clap 3 times?
+Can you clap 4 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the emu.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Emus can run very fast, but they cannot fly.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
