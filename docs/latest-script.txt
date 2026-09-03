@@ -2,7 +2,7 @@ Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Thursday, the 3 September.
+Today is Friday, the 4 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,45 +14,47 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 6 degrees and a top of 16 degrees.
+In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 15 degrees.
 
-There is about a 67 percent chance of rain.
+There is about a 93 percent chance of rain.
 
 You might need a raincoat today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is L.
+Today’s letter is M.
 
-Can you think of something that starts with the letter L?
+Can you think of something that starts with the letter M?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 6.
+Today’s number is 7.
 
-Can you clap 6 times?
+Can you clap 7 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Hawthorn Hawks beat Fremantle Dockers by 32 points.
 
 [_SOUND]
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
