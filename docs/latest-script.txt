@@ -2,7 +2,7 @@ Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 4 September.
+Today is Saturday, the 5 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,63 +14,61 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 4 degrees and a top of 15 degrees.
+In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 16 degrees.
 
-There is about a 93 percent chance of rain.
+There is about a 100 percent chance of rain.
 
 You might need a raincoat today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is M.
+Today’s letter is N.
 
-Can you think of something that starts with the letter M?
+Can you think of something that starts with the letter N?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 7.
+Today’s number is 8.
 
-Can you clap 7 times?
+Can you clap 8 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-Hawthorn Hawks beat Fremantle Dockers by 32 points.
+Geelong Cats beat Carlton Blues by 33 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
