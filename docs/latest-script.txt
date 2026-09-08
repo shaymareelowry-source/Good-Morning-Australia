@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Monday, the 7 September.
+Today is Wednesday, the 9 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 15 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 13 degrees.
 
-There is about a 2 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,33 +26,33 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is P.
+Today’s letter is R.
 
-Can you think of something that starts with the letter P?
+Can you think of something that starts with the letter R?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 10.
+Today’s number is 12.
 
-Can you clap 10 times?
+Can you clap 12 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
 AFL update!
 
-Adelaide Crows beat Western Bulldogs by 22 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
