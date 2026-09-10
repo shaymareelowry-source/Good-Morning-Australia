@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Thursday, the 10 September.
+Today is Friday, the 11 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,39 +14,41 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 4 degrees and a top of 16 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 7 degrees and a top of 20 degrees.
 
 There is about a 0 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is S.
+Today’s letter is T.
 
-Can you think of something that starts with the letter S?
+Can you think of something that starts with the letter T?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 13.
+Today’s number is 14.
 
-Can you clap 13 times?
+Can you clap 14 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
@@ -58,17 +60,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
