@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Friday, the 11 September.
+Today is Saturday, the 12 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,47 +14,45 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 7 degrees and a top of 20 degrees.
+In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 19 degrees.
 
 There is about a 0 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is T.
+Today’s letter is U.
 
-Can you think of something that starts with the letter T?
+Can you think of something that starts with the letter U?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 14.
+Today’s number is 15.
 
-Can you clap 14 times?
+Can you clap 15 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Fremantle Dockers beat Geelong Cats by 14 points.
 
 [_SOUND]
 
@@ -70,7 +68,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
