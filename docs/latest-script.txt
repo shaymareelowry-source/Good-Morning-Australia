@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Saturday, the 12 September.
+Today is Sunday, the 13 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 19 degrees.
+In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 21 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 100 percent chance of rain.
 
-It sounds like a good day for comfy clothes.
+You might need a raincoat today.
 
 
 
@@ -26,33 +26,33 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is U.
+Today’s letter is V.
 
-Can you think of something that starts with the letter U?
+Can you think of something that starts with the letter V?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 15.
+Today’s number is 16.
 
-Can you clap 15 times?
+Can you clap 16 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
 AFL update!
 
-Fremantle Dockers beat Geelong Cats by 14 points.
+Brisbane Lions beat Adelaide Crows by 53 points.
 
 [_SOUND]
 
@@ -68,7 +68,7 @@ Because it was not peeling well!
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
