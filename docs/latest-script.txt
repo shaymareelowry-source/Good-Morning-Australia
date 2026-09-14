@@ -2,7 +2,7 @@ Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Monday, the 14 September.
+Today is Tuesday, the 15 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 12 degrees and a top of 18 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 13 degrees.
 
-There is about a 69 percent chance of rain.
+There is about a 0 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is W.
+Today’s letter is X.
 
-Can you think of something that starts with the letter W?
+Can you think of something that starts with the letter X?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 17.
+Today’s number is 18.
 
-Can you clap 17 times?
+Can you clap 18 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kangaroo.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Kangaroos cannot walk backwards very well.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ Brisbane Lions beat Adelaide Crows by 53 points.
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
