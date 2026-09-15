@@ -2,7 +2,7 @@ Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Tuesday, the 15 September.
+Today is Wednesday, the 16 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 13 degrees.
+In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 12 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,49 +26,49 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is X.
+Today’s letter is Y.
 
-Can you think of something that starts with the letter X?
+Can you think of something that starts with the letter Y?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 18.
+Today’s number is 19.
 
-Can you clap 18 times?
+Can you clap 19 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
 AFL update!
 
-Brisbane Lions beat Adelaide Crows by 53 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
