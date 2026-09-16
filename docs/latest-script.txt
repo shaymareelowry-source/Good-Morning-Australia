@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Wednesday, the 16 September.
+Today is Thursday, the 17 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 12 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 4 degrees and a top of 15 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is Y.
+Today’s letter is Z.
 
-Can you think of something that starts with the letter Y?
+Can you think of something that starts with the letter Z?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 19.
+Today’s number is 20.
 
-Can you clap 19 times?
+Can you clap 20 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
