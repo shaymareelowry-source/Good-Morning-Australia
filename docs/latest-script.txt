@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Thursday, the 17 September.
+Today is Friday, the 18 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,39 +14,41 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 4 degrees and a top of 15 degrees.
+In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 18 degrees.
 
 There is about a 0 percent chance of rain.
 
-You might need a warm jumper today.
+It sounds like a good day for comfy clothes.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is Z.
+Today’s letter is A.
 
-Can you think of something that starts with the letter Z?
+Can you think of something that starts with the letter A?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 20.
+Today’s number is 1.
 
-Can you clap 20 times?
+Can you clap 1 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -58,17 +60,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
