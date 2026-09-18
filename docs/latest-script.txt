@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 18 September.
+Today is Saturday, the 19 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,57 +14,55 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 4 degrees and a top of 18 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 8 degrees and a top of 22 degrees.
 
 There is about a 0 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is A.
+Today’s letter is B.
 
-Can you think of something that starts with the letter A?
+Can you think of something that starts with the letter B?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 1.
+Today’s number is 2.
 
-Can you clap 1 times?
+Can you clap 2 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the emu.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Emus can run very fast, but they cannot fly.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Fremantle Dockers beat Sydney Swans by 12 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
