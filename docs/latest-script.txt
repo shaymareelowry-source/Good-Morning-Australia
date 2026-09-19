@@ -2,7 +2,7 @@ Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Saturday, the 19 September.
+Today is Sunday, the 20 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 8 degrees and a top of 22 degrees.
+In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 25 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,49 +26,49 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is B.
+Today’s letter is C.
 
-Can you think of something that starts with the letter B?
+Can you think of something that starts with the letter C?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 2.
+Today’s number is 3.
 
-Can you clap 2 times?
+Can you clap 3 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
 AFL update!
 
-Fremantle Dockers beat Sydney Swans by 12 points.
+Brisbane Lions beat Hawthorn Hawks by 9 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
