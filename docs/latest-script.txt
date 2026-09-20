@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Sunday, the 20 September.
+Today is Monday, the 21 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 25 degrees.
+In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 15 degrees.
 
 There is about a 0 percent chance of rain.
 
-It sounds like a good day for comfy clothes.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is C.
+Today’s letter is D.
 
-Can you think of something that starts with the letter C?
+Can you think of something that starts with the letter D?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 3.
+Today’s number is 4.
 
-Can you clap 3 times?
+Can you clap 4 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ Thunderwear!
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
