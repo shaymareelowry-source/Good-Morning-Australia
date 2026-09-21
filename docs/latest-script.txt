@@ -2,7 +2,7 @@ Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 21 September.
+Today is Tuesday, the 22 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 15 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 6 degrees and a top of 16 degrees.
 
 There is about a 0 percent chance of rain.
 
-You might need a warm jumper today.
+It sounds like a good day for comfy clothes.
 
 
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is D.
+Today’s letter is E.
 
-Can you think of something that starts with the letter D?
+Can you think of something that starts with the letter E?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 4.
+Today’s number is 5.
 
-Can you clap 4 times?
+Can you clap 5 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the koala.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Koalas sleep for many hours every day.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ Thunderwear!
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
