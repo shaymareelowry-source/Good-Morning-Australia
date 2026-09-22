@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Tuesday, the 22 September.
+Today is Wednesday, the 23 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 6 degrees and a top of 16 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 20 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,33 +26,33 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is E.
+Today’s letter is F.
 
-Can you think of something that starts with the letter E?
+Can you think of something that starts with the letter F?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 5.
+Today’s number is 6.
 
-Can you clap 5 times?
+Can you clap 6 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
 AFL update!
 
-Brisbane Lions beat Hawthorn Hawks by 9 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
@@ -68,7 +68,7 @@ Thunderwear!
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
