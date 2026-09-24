@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Thursday, the 24 September.
+Today is Friday, the 25 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,39 +14,41 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 23 degrees.
+In Bendigo today, it will be cloudy, with a low of 14 degrees and a top of 26 degrees.
 
-There is about a 2 percent chance of rain.
+There is about a 35 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is G.
+Today’s letter is H.
 
-Can you think of something that starts with the letter G?
+Can you think of something that starts with the letter H?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 7.
+Today’s number is 8.
 
-Can you clap 7 times?
+Can you clap 8 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
@@ -68,7 +70,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
