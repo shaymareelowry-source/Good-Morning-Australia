@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Saturday, the 26 September.
+Today is Sunday, the 27 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 20 degrees.
+In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 16 degrees.
 
-There is about a 84 percent chance of rain.
+There is about a 0 percent chance of rain.
 
-You might need a raincoat today.
+It sounds like a good day for comfy clothes.
 
 
 
@@ -26,43 +26,43 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is I.
+Today’s letter is J.
 
-Can you think of something that starts with the letter I?
+Can you think of something that starts with the letter J?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 9.
+Today’s number is 10.
 
-Can you clap 9 times?
+Can you clap 10 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
 AFL update!
 
-There were no AFL scores from last night.
+Brisbane Lions beat Fremantle Dockers by 7 points.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
