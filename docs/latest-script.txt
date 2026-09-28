@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Monday, the 28 September.
+Today is Tuesday, the 29 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 19 degrees.
+In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 21 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is K.
+Today’s letter is L.
 
-Can you think of something that starts with the letter K?
+Can you think of something that starts with the letter L?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 11.
+Today’s number is 12.
 
-Can you clap 11 times?
+Can you clap 12 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
