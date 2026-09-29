@@ -1,8 +1,8 @@
-Good morning Walkers!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Tuesday, the 29 September.
+Today is Wednesday, the 30 September.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 21 degrees.
+In Bendigo today, it will be cloudy, with a low of 12 degrees and a top of 22 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 39 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
@@ -26,49 +26,49 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is L.
+Today’s letter is M.
 
-Can you think of something that starts with the letter L?
+Can you think of something that starts with the letter M?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 12.
+Today’s number is 13.
 
-Can you clap 12 times?
+Can you clap 13 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
 AFL update!
 
-Brisbane Lions beat Fremantle Dockers by 7 points.
+There were no AFL scores from last night.
 
 [_SOUND]
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
