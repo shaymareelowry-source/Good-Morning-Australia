@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Thursday, the 1 October.
+Today is Friday, the 2 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,39 +14,41 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be stormy, with a low of 11 degrees and a top of 23 degrees.
+In Bendigo today, it will be rainy, with a low of 11 degrees and a top of 16 degrees.
 
-There is about a 99 percent chance of rain.
+There is about a 100 percent chance of rain.
 
 You might need a raincoat today.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is N.
+Today’s letter is O.
 
-Can you think of something that starts with the letter N?
+Can you think of something that starts with the letter O?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 14.
+Today’s number is 15.
 
-Can you clap 14 times?
+Can you clap 15 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the emu.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Emus can run very fast, but they cannot fly.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -58,17 +60,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
