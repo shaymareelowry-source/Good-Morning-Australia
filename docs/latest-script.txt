@@ -2,7 +2,7 @@ Good morning Walkers!
 
 Hello everyone!
 
-Today is Sunday, the 4 October.
+Today is Monday, the 5 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 19 degrees.
+In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 19 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 10 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is Q.
+Today’s letter is R.
 
-Can you think of something that starts with the letter Q?
+Can you think of something that starts with the letter R?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 17.
+Today’s number is 18.
 
-Can you clap 17 times?
+Can you clap 18 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
