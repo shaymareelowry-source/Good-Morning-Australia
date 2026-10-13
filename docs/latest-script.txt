@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 12 October.
+Today is Wednesday, the 14 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 11 degrees and a top of 21 degrees.
+In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 14 degrees.
 
-There is about a 94 percent chance of rain.
+There is about a 0 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is Y.
+Today’s letter is A.
 
-Can you think of something that starts with the letter Y?
+Can you think of something that starts with the letter A?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 5.
+Today’s number is 7.
 
-Can you clap 5 times?
+Can you clap 7 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ Thunderwear!
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
