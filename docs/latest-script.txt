@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Wednesday, the 14 October.
+Today is Thursday, the 15 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 14 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 19 degrees.
 
 There is about a 0 percent chance of rain.
 
-You might need a warm jumper today.
+It sounds like a good day for comfy clothes.
 
 
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is A.
+Today’s letter is B.
 
-Can you think of something that starts with the letter A?
+Can you think of something that starts with the letter B?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 7.
+Today’s number is 8.
 
-Can you clap 7 times?
+Can you clap 8 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ Thunderwear!
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
