@@ -2,7 +2,7 @@ Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Friday, the 16 October.
+Today is Saturday, the 17 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,41 +14,39 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 20 degrees.
+In Bendigo today, it will be cloudy, with a low of 10 degrees and a top of 22 degrees.
 
-There is about a 6 percent chance of rain.
+There is about a 2 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is C.
+Today’s letter is D.
 
-Can you think of something that starts with the letter C?
+Can you think of something that starts with the letter D?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 9.
+Today’s number is 10.
 
-Can you clap 9 times?
+Can you clap 10 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -60,11 +58,11 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
