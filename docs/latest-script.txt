@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Saturday, the 17 October.
+Today is Sunday, the 18 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 10 degrees and a top of 22 degrees.
+In Bendigo today, it will be rainy, with a low of 10 degrees and a top of 22 degrees.
 
-There is about a 2 percent chance of rain.
+There is about a 12 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is D.
+Today’s letter is E.
 
-Can you think of something that starts with the letter D?
+Can you think of something that starts with the letter E?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 10.
+Today’s number is 11.
 
-Can you clap 10 times?
+Can you clap 11 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the emu.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Emus can run very fast, but they cannot fly.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
