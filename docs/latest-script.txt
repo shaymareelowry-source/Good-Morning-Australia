@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Sunday, the 18 October.
+Today is Monday, the 19 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 10 degrees and a top of 22 degrees.
+In Bendigo today, it will be cloudy, with a low of 11 degrees and a top of 24 degrees.
 
-There is about a 12 percent chance of rain.
+There is about a 18 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
@@ -26,17 +26,17 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is E.
+Today’s letter is F.
 
-Can you think of something that starts with the letter E?
+Can you think of something that starts with the letter F?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 11.
+Today’s number is 12.
 
-Can you clap 11 times?
+Can you clap 12 times?
 
 . . . . . . . . .
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
