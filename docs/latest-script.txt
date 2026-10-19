@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 19 October.
+Today is Tuesday, the 20 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 11 degrees and a top of 24 degrees.
+In Bendigo today, it will be rainy, with a low of 13 degrees and a top of 25 degrees.
 
-There is about a 18 percent chance of rain.
+There is about a 43 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is F.
+Today’s letter is G.
 
-Can you think of something that starts with the letter F?
+Can you think of something that starts with the letter G?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 12.
+Today’s number is 13.
 
-Can you clap 12 times?
+Can you clap 13 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
