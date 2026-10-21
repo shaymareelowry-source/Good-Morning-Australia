@@ -1,8 +1,8 @@
-Good morning Walkers!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Wednesday, the 21 October.
+Today is Thursday, the 22 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 14 degrees and a top of 27 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 14 degrees and a top of 27 degrees.
 
-There is about a 12 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is H.
+Today’s letter is I.
 
-Can you think of something that starts with the letter H?
+Can you think of something that starts with the letter I?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 14.
+Today’s number is 15.
 
-Can you clap 14 times?
+Can you clap 15 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ Thunderwear!
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
