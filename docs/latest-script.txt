@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Thursday, the 22 October.
+Today is Friday, the 23 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,39 +14,41 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 14 degrees and a top of 27 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 16 degrees and a top of 28 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 12 percent chance of rain.
 
-It sounds like a good day for comfy clothes.
+It might be a hot day, so remember your hat and drink bottle.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is I.
+Today’s letter is J.
 
-Can you think of something that starts with the letter I?
+Can you think of something that starts with the letter J?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 15.
+Today’s number is 16.
 
-Can you clap 15 times?
+Can you clap 16 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the emu.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Emus can run very fast, but they cannot fly.
 
 [AFL_SOUND]
 
@@ -58,17 +60,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
