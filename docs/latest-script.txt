@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Sunday, the 25 October.
+Today is Monday, the 26 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 8 degrees and a top of 18 degrees.
+In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 15 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 0 percent chance of rain.
 
-You might need a raincoat today.
+You might need a warm jumper today.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is L.
+Today’s letter is M.
 
-Can you think of something that starts with the letter L?
+Can you think of something that starts with the letter M?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 18.
+Today’s number is 19.
 
-Can you clap 18 times?
+Can you clap 19 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the platypus.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Platypuses close their eyes and ears underwater.
 
 [AFL_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
