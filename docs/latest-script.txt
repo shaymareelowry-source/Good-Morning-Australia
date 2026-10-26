@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Monday, the 26 October.
+Today is Tuesday, the 27 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -16,7 +16,7 @@ Today looks like a nice calm day.
 
 In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 15 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 2 percent chance of rain.
 
 You might need a warm jumper today.
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is M.
+Today’s letter is N.
 
-Can you think of something that starts with the letter M?
+Can you think of something that starts with the letter N?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 19.
+Today’s number is 20.
 
-Can you clap 19 times?
+Can you clap 20 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
