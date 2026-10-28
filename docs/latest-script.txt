@@ -1,8 +1,8 @@
-Good morning Walkers!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Wednesday, the 28 October.
+Today is Thursday, the 29 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 17 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 8 degrees and a top of 22 degrees.
 
-There is about a 2 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is O.
+Today’s letter is P.
 
-Can you think of something that starts with the letter O?
+Can you think of something that starts with the letter P?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 1.
+Today’s number is 2.
 
-Can you clap 1 times?
+Can you clap 2 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the emu.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Emus can run very fast, but they cannot fly.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
