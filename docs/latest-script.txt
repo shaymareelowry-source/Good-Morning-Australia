@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Thursday, the 29 October.
+Today is Friday, the 30 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,39 +14,41 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 8 degrees and a top of 22 degrees.
+In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 25 degrees.
 
 There is about a 0 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is P.
+Today’s letter is Q.
 
-Can you think of something that starts with the letter P?
+Can you think of something that starts with the letter Q?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 2.
+Today’s number is 3.
 
-Can you clap 2 times?
+Can you clap 3 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the kookaburra.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Kookaburras laugh to talk to other birds.
 
 [AFL_SOUND]
 
@@ -58,17 +60,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+Why did the banana go to the doctor?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Because it was not peeling well!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
