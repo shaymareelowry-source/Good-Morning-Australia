@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 30 October.
+Today is Saturday, the 31 October.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,41 +14,39 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 25 degrees.
+In Bendigo today, it will be stormy, with a low of 13 degrees and a top of 24 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 97 percent chance of rain.
 
-It sounds like a good day for comfy clothes.
+You might need a raincoat today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is Q.
+Today’s letter is R.
 
-Can you think of something that starts with the letter Q?
+Can you think of something that starts with the letter R?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 3.
+Today’s number is 4.
 
-Can you clap 3 times?
+Can you clap 4 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kookaburra.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Kookaburras laugh to talk to other birds.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -60,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
