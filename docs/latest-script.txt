@@ -2,7 +2,7 @@ Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Sunday, the 1 November.
+Today is Monday, the 2 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 20 degrees.
+In Bendigo today, it will be stormy, with a low of 11 degrees and a top of 20 degrees.
 
-There is about a 2 percent chance of rain.
+There is about a 100 percent chance of rain.
 
-It sounds like a good day for comfy clothes.
+You might need a raincoat today.
 
 
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is S.
+Today’s letter is T.
 
-Can you think of something that starts with the letter S?
+Can you think of something that starts with the letter T?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 5.
+Today’s number is 6.
 
-Can you clap 5 times?
+Can you clap 6 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you hop like a kangaroo ten times?
 
 . . . . . . . . . . . . . . . .
 
