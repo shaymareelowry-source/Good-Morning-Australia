@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 2 November.
+Today is Tuesday, the 3 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be stormy, with a low of 11 degrees and a top of 20 degrees.
+In Bendigo today, it will be rainy, with a low of 11 degrees and a top of 23 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 62 percent chance of rain.
 
 You might need a raincoat today.
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is T.
+Today’s letter is U.
 
-Can you think of something that starts with the letter T?
+Can you think of something that starts with the letter U?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 6.
+Today’s number is 7.
 
-Can you clap 6 times?
+Can you clap 7 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you hop like a kangaroo ten times?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
