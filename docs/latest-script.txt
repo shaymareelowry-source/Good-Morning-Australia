@@ -2,7 +2,7 @@ Good morning Walkers!
 
 Hello everyone!
 
-Today is Wednesday, the 4 November.
+Today is Thursday, the 5 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 20 degrees.
+In Bendigo today, it will be cloudy, with a low of 8 degrees and a top of 18 degrees.
 
-There is about a 100 percent chance of rain.
+There is about a 0 percent chance of rain.
 
-You might need a raincoat today.
+It sounds like a good day for comfy clothes.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is V.
+Today’s letter is W.
 
-Can you think of something that starts with the letter V?
+Can you think of something that starts with the letter W?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 8.
+Today’s number is 9.
 
-Can you clap 8 times?
+Can you clap 9 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the kangaroo.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Kangaroos cannot walk backwards very well.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ Because they always stand out!
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Remember to be kind to your grown ups!
 
 Have a kind and wonderful day.
 
