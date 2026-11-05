@@ -1,8 +1,8 @@
-Good morning Walkers!
+Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Thursday, the 5 November.
+Today is Friday, the 6 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,39 +14,41 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 8 degrees and a top of 18 degrees.
+In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 21 degrees.
 
 There is about a 0 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
+[FRIDAY_SOUND]
 
+It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is W.
+Today’s letter is X.
 
-Can you think of something that starts with the letter W?
+Can you think of something that starts with the letter X?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 9.
+Today’s number is 10.
 
-Can you clap 9 times?
+Can you clap 10 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
@@ -82,7 +84,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Remember to be kind to your grown ups!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
