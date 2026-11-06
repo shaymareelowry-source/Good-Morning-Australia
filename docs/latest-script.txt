@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 6 November.
+Today is Saturday, the 7 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,41 +14,39 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 7 degrees and a top of 21 degrees.
+In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 15 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 6 percent chance of rain.
 
-It sounds like a good day for comfy clothes.
+You might need a warm jumper today.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is X.
+Today’s letter is Y.
 
-Can you think of something that starts with the letter X?
+Can you think of something that starts with the letter Y?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 10.
+Today’s number is 11.
 
-Can you clap 10 times?
+Can you clap 11 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
@@ -70,7 +68,7 @@ Because they always stand out!
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+See if you can spot a bird outside today!
 
 Have a kind and wonderful day.
 
