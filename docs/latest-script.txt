@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Saturday, the 7 November.
+Today is Sunday, the 8 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 7 degrees and a top of 15 degrees.
+In Bendigo today, it will be cloudy, with a low of 5 degrees and a top of 16 degrees.
 
-There is about a 6 percent chance of rain.
+There is about a 0 percent chance of rain.
 
-You might need a warm jumper today.
+It sounds like a good day for comfy clothes.
 
 
 
@@ -26,27 +26,27 @@ You might need a warm jumper today.
 
 [LETTER_SOUND]
 
-Today’s letter is Y.
+Today’s letter is Z.
 
-Can you think of something that starts with the letter Y?
+Can you think of something that starts with the letter Z?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 11.
+Today’s number is 12.
 
-Can you clap 11 times?
+Can you clap 12 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-Why are kangaroos bad at hiding?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-Because they always stand out!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
