@@ -2,7 +2,7 @@ Good morning Walkers!
 
 Hello everyone!
 
-Today is Monday, the 9 November.
+Today is Tuesday, the 10 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 21 degrees.
+In Bendigo today, it will be cloudy, with a low of 10 degrees and a top of 27 degrees.
 
-There is about a 0 percent chance of rain.
+There is about a 20 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is A.
+Today’s letter is B.
 
-Can you think of something that starts with the letter A?
+Can you think of something that starts with the letter B?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 13.
+Today’s number is 14.
 
-Can you clap 13 times?
+Can you clap 14 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the platypus.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Platypuses close their eyes and ears underwater.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you flap your wings like a kookaburra?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
