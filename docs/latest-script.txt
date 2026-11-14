@@ -1,8 +1,8 @@
-Wake up Darcy, Spencer and Neve!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Friday, the 13 November.
+Today is Sunday, the 15 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,41 +14,39 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 12 degrees and a top of 21 degrees.
+In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 19 degrees.
 
-There is about a 78 percent chance of rain.
+There is about a 47 percent chance of rain.
 
-You might need a raincoat today.
+It sounds like a good day for comfy clothes.
 
-[FRIDAY_SOUND]
 
-It’s Friday dance party day! Make sure you have a little wiggle today!
 
 . . . . . . . . .
 
 [LETTER_SOUND]
 
-Today’s letter is E.
+Today’s letter is G.
 
-Can you think of something that starts with the letter E?
+Can you think of something that starts with the letter G?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 17.
+Today’s number is 19.
 
-Can you clap 17 times?
+Can you clap 19 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the koala.
+Today’s Australian animal is the echidna.
 
 Did you know?
 
-Koalas sleep for many hours every day.
+Echidnas use their long sticky tongues to catch ants.
 
 [AFL_SOUND]
 
@@ -70,7 +68,7 @@ Thunderwear!
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you stomp like a wombat?
 
 . . . . . . . . . . . . . . . .
 
@@ -84,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-See if you can spot a bird outside today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
