@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Good morning Walkers!
 
 Hello everyone!
 
-Today is Sunday, the 15 November.
+Today is Monday, the 16 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 9 degrees and a top of 19 degrees.
+In Bendigo today, it will be cloudy, with a low of 6 degrees and a top of 17 degrees.
 
-There is about a 47 percent chance of rain.
+There is about a 0 percent chance of rain.
 
 It sounds like a good day for comfy clothes.
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is G.
+Today’s letter is H.
 
-Can you think of something that starts with the letter G?
+Can you think of something that starts with the letter H?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 19.
+Today’s number is 20.
 
-Can you clap 19 times?
+Can you clap 20 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do clouds wear under their raincoats?
+Why are kangaroos bad at hiding?
 
 . . . . . . . . . . . . . . . .
 
-Thunderwear!
+Because they always stand out!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you stomp like a wombat?
+Can you flap your wings like a kookaburra?
 
 . . . . . . . . . . . . . . . .
 
