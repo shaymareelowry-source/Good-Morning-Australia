@@ -2,7 +2,7 @@ Wakey Wakey breakfast crew!
 
 Hello everyone!
 
-Today is Sunday, the 22 November.
+Today is Monday, the 23 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,9 +14,9 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 15 degrees and a top of 28 degrees.
+In Bendigo today, it will be rainy, with a low of 12 degrees and a top of 21 degrees.
 
-There is about a 79 percent chance of rain.
+There is about a 65 percent chance of rain.
 
 You might need a raincoat today.
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is N.
+Today’s letter is O.
 
-Can you think of something that starts with the letter N?
+Can you think of something that starts with the letter O?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 6.
+Today’s number is 7.
 
-Can you clap 6 times?
+Can you clap 7 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the echidna.
+Today’s Australian animal is the wombat.
 
 Did you know?
 
-Echidnas use their long sticky tongues to catch ants.
+Wombats do cube-shaped poos to stop them rolling away.
 
 [AFL_SOUND]
 
@@ -58,17 +58,17 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-Why did the banana go to the doctor?
+What do you call a sleeping bull?
 
 . . . . . . . . . . . . . . . .
 
-Because it was not peeling well!
+A bulldozer!
 
 [MOVEMENT_SOUND]
 
 Movement challenge!
 
-Can you waddle like an echidna?
+Can you stretch up tall like a gum tree?
 
 . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Keep looking for tiny adventures today!
+Don’t forget to laugh today!
 
 Have a kind and wonderful day.
 
