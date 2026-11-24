@@ -1,8 +1,8 @@
-Wakey Wakey breakfast crew!
+Good morning Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Monday, the 23 November.
+Today is Tuesday, the 24 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,11 +14,11 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be rainy, with a low of 12 degrees and a top of 21 degrees.
+In Bendigo today, it will be mostly sunny, with a low of 8 degrees and a top of 20 degrees.
 
-There is about a 65 percent chance of rain.
+There is about a 0 percent chance of rain.
 
-You might need a raincoat today.
+It sounds like a good day for comfy clothes.
 
 
 
@@ -26,27 +26,27 @@ You might need a raincoat today.
 
 [LETTER_SOUND]
 
-Today’s letter is O.
+Today’s letter is P.
 
-Can you think of something that starts with the letter O?
+Can you think of something that starts with the letter P?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 7.
+Today’s number is 8.
 
-Can you clap 7 times?
+Can you clap 8 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the wombat.
+Today’s Australian animal is the bilby.
 
 Did you know?
 
-Wombats do cube-shaped poos to stop them rolling away.
+Bilbies have huge ears to help them hear underground.
 
 [AFL_SOUND]
 
@@ -68,7 +68,7 @@ A bulldozer!
 
 Movement challenge!
 
-Can you stretch up tall like a gum tree?
+Can you waddle like an echidna?
 
 . . . . . . . . . . . . . . . .
 
