@@ -1,8 +1,8 @@
-Good morning Darcy, Spencer and Neve!
+Wake up Darcy, Spencer and Neve!
 
 Hello everyone!
 
-Today is Tuesday, the 24 November.
+Today is Wednesday, the 25 November.
 
 Wake up everyone, it’s time to start the day.
 
@@ -14,7 +14,7 @@ Today looks like a nice calm day.
 
 [WEATHER_SOUND]
 
-In Bendigo today, it will be mostly sunny, with a low of 8 degrees and a top of 20 degrees.
+In Bendigo today, it will be cloudy, with a low of 9 degrees and a top of 25 degrees.
 
 There is about a 0 percent chance of rain.
 
@@ -26,27 +26,27 @@ It sounds like a good day for comfy clothes.
 
 [LETTER_SOUND]
 
-Today’s letter is P.
+Today’s letter is Q.
 
-Can you think of something that starts with the letter P?
+Can you think of something that starts with the letter Q?
 
 . . . . . . . . . . . . . . . .
 
 [NUMBER_SOUND]
 
-Today’s number is 8.
+Today’s number is 9.
 
-Can you clap 8 times?
+Can you clap 9 times?
 
 . . . . . . . . .
 
 [ANIMAL_SOUND]
 
-Today’s Australian animal is the bilby.
+Today’s Australian animal is the kangaroo.
 
 Did you know?
 
-Bilbies have huge ears to help them hear underground.
+Kangaroos cannot walk backwards very well.
 
 [AFL_SOUND]
 
@@ -58,11 +58,11 @@ There were no AFL scores from last night.
 
 Now it’s time for today’s .
 
-What do you call a sleeping bull?
+What do clouds wear under their raincoats?
 
 . . . . . . . . . . . . . . . .
 
-A bulldozer!
+Thunderwear!
 
 [MOVEMENT_SOUND]
 
@@ -82,7 +82,7 @@ Take a big deep breath in...
 
 . . . . . . . . .
 
-Don’t forget to laugh today!
+Keep looking for tiny adventures today!
 
 Have a kind and wonderful day.
 
